@@ -1,0 +1,46 @@
+name: Update Rebrickable Catalog
+
+on:
+  schedule:
+    # Lance le script tous les lundis et jeudis à minuit (UTC)
+    - cron: '0 0 * * 1,4'
+  workflow_dispatch: # Permet d'ajouter un bouton pour le lancer manuellement sur GitHub
+
+jobs:
+  update-data:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write # Autorise le bot à pousser des fichiers sur le repo
+    steps:
+      - uses: actions/checkout@v3
+
+      - name: Téléchargement et extraction des CSV
+        run: |
+          # Création d'un dossier 'data' pour stocker les fichiers
+          mkdir -p data
+          cd data
+          
+          # Téléchargement depuis Rebrickable
+          wget https://cdn.rebrickable.com/media/downloads/themes.csv.zip
+          wget https://cdn.rebrickable.com/media/downloads/sets.csv.zip
+          wget https://cdn.rebrickable.com/media/downloads/minifigs.csv.zip
+          
+          # Extraction (écrase les anciens)
+          unzip -o themes.csv.zip
+          unzip -o sets.csv.zip
+          unzip -o minifigs.csv.zip
+          
+          # Nettoyage des zips
+          rm *.zip
+          
+          # Création du fichier version.json avec la date du jour
+          echo "{\"last_updated\": \"$(date -u +'%Y-%m-%dT%H:%M:%SZ')\"}" > version.json
+
+      - name: Commit et Push vers GitHub
+        run: |
+          git config --global user.name 'github-actions[bot]'
+          git config --global user.email 'github-actions[bot]@users.noreply.github.com'
+          git add data/
+          # Si rien n'a changé, le commit échouera, donc on ajoute || exit 0 pour ne pas faire planter le workflow
+          git commit -m "Mise à jour automatique du catalogue Rebrickable" || exit 0
+          git push
