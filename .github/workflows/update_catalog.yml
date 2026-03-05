@@ -2,45 +2,62 @@ name: Update Rebrickable Catalog
 
 on:
   schedule:
-    # Lance le script tous les lundis et jeudis à minuit (UTC)
-    - cron: '0 0 * * 1,4'
-  workflow_dispatch: # Permet d'ajouter un bouton pour le lancer manuellement sur GitHub
+    - cron: '0 0 * * 1,4' # Lundi et Jeudi
+  workflow_dispatch: # Déclenchement manuel
 
 jobs:
   update-data:
     runs-on: ubuntu-latest
     permissions:
-      contents: write # Autorise le bot à pousser des fichiers sur le repo
+      contents: write
     steps:
       - uses: actions/checkout@v3
 
       - name: Téléchargement et extraction des CSV
         run: |
-          # Création d'un dossier 'data' pour stocker les fichiers
           mkdir -p data
-          cd data
           
-          # Téléchargement depuis Rebrickable
-          wget https://cdn.rebrickable.com/media/downloads/themes.csv.zip
-          wget https://cdn.rebrickable.com/media/downloads/sets.csv.zip
-          wget https://cdn.rebrickable.com/media/downloads/minifigs.csv.zip
+          # On télécharge dans un dossier temporaire d'abord
+          mkdir -p temp_dl
+          cd temp_dl
           
-          # Extraction (écrase les anciens)
-          unzip -o themes.csv.zip
-          unzip -o sets.csv.zip
-          unzip -o minifigs.csv.zip
+          wget -q https://cdn.rebrickable.com/media/downloads/themes.csv.zip
+          wget -q https://cdn.rebrickable.com/media/downloads/sets.csv.zip
+          wget -q https://cdn.rebrickable.com/media/downloads/minifigs.csv.zip
           
-          # Nettoyage des zips
+          unzip -q -o themes.csv.zip
+          unzip -q -o sets.csv.zip
+          unzip -q -o minifigs.csv.zip
+          
           rm *.zip
           
-          # Création du fichier version.json avec la date du jour
-          echo "{\"last_updated\": \"$(date -u +'%Y-%m-%dT%H:%M:%SZ')\"}" > version.json
+          # On déplace les nouveaux CSV vers le dossier suivi par Git
+          mv *.csv ../data/
+          cd ..
+          rm -rf temp_dl
 
-      - name: Commit et Push vers GitHub
+      - name: Vérification des changements
+        id: check_changes
+        run: |
+          # Git status -s affiche les fichiers modifiés.
+          # Si la sortie est vide, rien n'a changé.
+          if [[ -n $(git status -s data/*.csv) ]]; then
+            echo "Des modifications ont été détectées dans les CSV."
+            echo "has_changes=true" >> $GITHUB_OUTPUT
+            
+            # UNIQUEMENT SI CA A CHANGÉ : On génère la nouvelle version
+            echo "{\"last_updated\": \"$(date -u +'%Y-%m-%dT%H:%M:%SZ')\"}" > data/version.json
+          else
+            echo "Aucun changement détecté dans les catalogues Rebrickable."
+            echo "has_changes=false" >> $GITHUB_OUTPUT
+          fi
+
+      - name: Commit et Push (Si changements détectés)
+        if: steps.check_changes.outputs.has_changes == 'true'
         run: |
           git config --global user.name 'github-actions[bot]'
           git config --global user.email 'github-actions[bot]@users.noreply.github.com'
+          
           git add data/
-          # Si rien n'a changé, le commit échouera, donc on ajoute || exit 0 pour ne pas faire planter le workflow
-          git commit -m "Mise à jour automatique du catalogue Rebrickable" || exit 0
+          git commit -m "Mise à jour automatique : Nouveaux sets ou thèmes détectés"
           git push
