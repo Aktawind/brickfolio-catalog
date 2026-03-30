@@ -387,7 +387,7 @@ set_num,name,year,theme_id,num_parts,img_url
 102-1,4.5V Motor Set,1968,235,24,https://cdn.rebrickable.com/media/sets/102-1.jpg
 10210-1,Imperial Flagship,2010,153,1668,https://cdn.rebrickable.com/media/sets/10210-1.jpg
 1021-1,Basic Vehicles,1985,516,93,https://cdn.rebrickable.com/media/sets/1021-1.jpg
-10211-1,Grand Emporium,2010,155,2187,https://cdn.rebrickable.com/media/sets/10211-1.jpg
+10211-1,Grand Emporium,2010,155,2186,https://cdn.rebrickable.com/media/sets/10211-1.jpg
 10212-1,Imperial Shuttle,2010,171,2503,https://cdn.rebrickable.com/media/sets/10212-1.jpg
 10213-1,Shuttle Adventure,2010,673,1204,https://cdn.rebrickable.com/media/sets/10213-1.jpg
 10213sup-1,Supplemental Pack for Shuttle Adventure Set 10213,2010,443,29,https://cdn.rebrickable.com/media/sets/10213sup-1.jpg
@@ -11210,6 +11210,7 @@ set_num,name,year,theme_id,num_parts,img_url
 5007998-1,Baseball Cap,2023,501,0,https://cdn.rebrickable.com/media/sets/5007998-1.jpg
 5008001-1,Christmas 4-in-1,2023,227,0,https://cdn.rebrickable.com/media/sets/5008001-1.jpg
 5008003-1,Twill Baseball Cap with AOP Print,2023,501,0,https://cdn.rebrickable.com/media/sets/5008003-1.jpg
+5008021-1,Minifigure Display Case 8 (Sand Green),2018,740,8,https://cdn.rebrickable.com/media/sets/5008021-1.jpg
 5008022-1,Jurassic Park Anniversary T-Rex,2023,602,44,https://cdn.rebrickable.com/media/sets/5008022-1.jpg
 5008031-1,Hot Dog Guy Bag Tag,2024,731,0,https://cdn.rebrickable.com/media/sets/5008031-1.jpg
 5008032-1,Harry Potter T-Shirt – Burgundy Red,2023,501,0,https://cdn.rebrickable.com/media/sets/5008032-1.jpg
@@ -11626,6 +11627,7 @@ set_num,name,year,theme_id,num_parts,img_url
 5010104-1,Pen Pal Gel Pen with Minifigure (Red),2025,739,3,https://cdn.rebrickable.com/media/sets/5010104-1.jpg
 5010106-1,Shelf (All Colors),2025,501,3,https://cdn.rebrickable.com/media/sets/5010106-1.jpg
 5010109-1,Bunny Ear Bag,2026,777,0,https://cdn.rebrickable.com/media/sets/5010109-1.jpg
+5010173-1,Happy Hummingbird,2026,206,152,https://cdn.rebrickable.com/media/sets/5010173-1.jpg
 5010203-1,Brick Clog (All Colors),2026,501,3,https://cdn.rebrickable.com/media/sets/5010203-1.jpg
 5010210-1,Insiders Botanicals Greeting Card,2026,739,0,https://cdn.rebrickable.com/media/sets/5010210-1.jpg
 5010226-1,Wall Clock MOC (My Own Creation) - White,2026,732,0,https://cdn.rebrickable.com/media/sets/5010226-1.jpg
@@ -13210,6 +13212,7 @@ set_num,name,year,theme_id,num_parts,img_url
 5711938023669-1,Square Drinking Bottle (Pink),2015,733,0,https://cdn.rebrickable.com/media/sets/5711938023669-1.jpg
 5711938035617-1,Wildflowers Steel Bottle,2026,733,0,https://cdn.rebrickable.com/media/sets/5711938035617-1.jpg
 5711938036287-1,Brick Art Line Lunch Box,2026,733,0,https://cdn.rebrickable.com/media/sets/5711938036287-1.jpg
+5711938036300-1,Brick Art Line Lunch Set,2026,733,0,https://cdn.rebrickable.com/media/sets/5711938036300-1.jpg
 5711938248468-1,Storage Brick Multi-Pack 4 Pieces (All Colors),2023,740,0,https://cdn.rebrickable.com/media/sets/5711938248468-1.jpg
 5712-1,Stunt Rally - PC CD-ROM,2000,742,0,https://cdn.rebrickable.com/media/sets/5712-1.jpg
 5713-1,Stunt Rally - Playstation,2000,742,0,https://cdn.rebrickable.com/media/sets/5713-1.jpg
@@ -15076,6 +15079,7 @@ set_num,name,year,theme_id,num_parts,img_url
 66138-1,Toa Hordika Collection,2005,324,0,https://cdn.rebrickable.com/media/sets/66138-1.jpg
 6614-1,Launch Evac 1,1995,88,123,https://cdn.rebrickable.com/media/sets/6614-1.jpg
 66142-1,Star Wars Value Pack,2006,158,0,https://cdn.rebrickable.com/media/sets/66142-1.jpg
+6614211-1,Treat Stand,2026,494,36,https://cdn.rebrickable.com/media/sets/6614211-1.jpg
 6614213-1,Bike Burger Cart,2026,52,41,https://cdn.rebrickable.com/media/sets/6614213-1.jpg
 6614216-1,Micro Cactus,2026,769,39,https://cdn.rebrickable.com/media/sets/6614216-1.jpg
 6614217-1,Micro Peace Lily,2026,769,46,https://cdn.rebrickable.com/media/sets/6614217-1.jpg
@@ -15145,6 +15149,7 @@ set_num,name,year,theme_id,num_parts,img_url
 66216-1,Duplo Value Pack,2007,505,0,https://cdn.rebrickable.com/media/sets/66216-1.jpg
 66217-1,Farm Value Pack #2,2007,650,0,https://cdn.rebrickable.com/media/sets/66217-1.jpg
 66218-1,Fire Value Pack,2007,58,0,https://cdn.rebrickable.com/media/sets/66218-1.jpg
+6621906-1,Horse,2026,598,0,https://cdn.rebrickable.com/media/sets/6621906-1.jpg
 66219-1,Value Pack,2007,559,0,https://cdn.rebrickable.com/media/sets/66219-1.jpg
 662-2,1:87 Opel Rekord,1965,368,1,https://cdn.rebrickable.com/media/sets/662-2.jpg
 662203-1,Iron Golem,2022,577,43,https://cdn.rebrickable.com/media/sets/662203-1.jpg
@@ -15326,7 +15331,6 @@ set_num,name,year,theme_id,num_parts,img_url
 66412-1,City Super Pack 2 in 1,2012,61,0,https://cdn.rebrickable.com/media/sets/66412-1.jpg
 6641299-1,LEGO Store Grand Opening Thessaloniki,2026,408,157,https://cdn.rebrickable.com/media/sets/6641299-1.jpg
 66414-1,Super Pack 2 in 1,2012,401,0,https://cdn.rebrickable.com/media/sets/66414-1.jpg
-6641463-1,Happy Hummingbird,2026,206,0,https://cdn.rebrickable.com/media/sets/6641463-1.jpg
 664-2,1:87 Mercedes 220 S,1964,368,1,https://cdn.rebrickable.com/media/sets/664-2.jpg
 6642-1,Police Helicopter,1988,67,65,https://cdn.rebrickable.com/media/sets/6642-1.jpg
 66426-1,City Super Pack 3 in 1,2012,58,0,https://cdn.rebrickable.com/media/sets/66426-1.jpg
@@ -17279,6 +17283,7 @@ set_num,name,year,theme_id,num_parts,img_url
 71348-1,Hermione Granger Fun Pack,2017,604,64,https://cdn.rebrickable.com/media/sets/71348-1.jpg
 71349-1,Beetlejuice Fun Pack,2017,604,56,https://cdn.rebrickable.com/media/sets/71349-1.jpg
 7135-1,Takanuva,2010,324,21,https://cdn.rebrickable.com/media/sets/7135-1.jpg
+713588-1,Axolotl Bag Charm,2026,503,0,https://cdn.rebrickable.com/media/sets/713588-1.jpg
 71360-1,Adventures with Mario Starter Course,2020,690,231,https://cdn.rebrickable.com/media/sets/71360-1.jpg
 7136-1,Skrall,2010,324,21,https://cdn.rebrickable.com/media/sets/7136-1.jpg
 71361-0,Character Pack Series 1 - Random Bag,2020,690,0,https://cdn.rebrickable.com/media/sets/71361-0.jpg
@@ -18188,7 +18193,7 @@ set_num,name,year,theme_id,num_parts,img_url
 75243-1,Slave I - 20th Anniversary Edition,2019,158,1007,https://cdn.rebrickable.com/media/sets/75243-1.jpg
 752437B-1,Minifigure Display Case Large Blue,2011,740,19,https://cdn.rebrickable.com/media/sets/752437b-1.jpg
 752437Bk-1,Minifigure Display Case Large Black,2011,740,19,https://cdn.rebrickable.com/media/sets/752437bk-1.jpg
-752437R-1,Minifigure Display Case Large Red,2011,740,19,https://cdn.rebrickable.com/media/sets/752437r-1.jpg
+752437R-1,Minifigure Display Case Large Red,2011,740,20,https://cdn.rebrickable.com/media/sets/752437r-1.jpg
 752437W-1,Minifigure Display Case Large Whit﻿﻿e,2011,740,19,https://cdn.rebrickable.com/media/sets/752437w-1.jpg
 752437Y-1,Minifigure Display Case Large Yellow,2011,740,19,https://cdn.rebrickable.com/media/sets/752437y-1.jpg
 75244-1,Tantive IV,2019,158,1772,https://cdn.rebrickable.com/media/sets/75244-1.jpg
@@ -18986,6 +18991,7 @@ set_num,name,year,theme_id,num_parts,img_url
 76343-1,Epic Battle: Hulkbuster vs. The Hulk,2026,781,413,https://cdn.rebrickable.com/media/sets/76343-1.jpg
 76344-1,Iron Man Mark 3 Collectors' Edition,2026,781,1297,https://cdn.rebrickable.com/media/sets/76344-1.jpg
 7635-1,4WD with Horse Trailer,2009,57,176,https://cdn.rebrickable.com/media/sets/7635-1.jpg
+76354-1,S.H.I.E.L.D. Helicarrier,2026,781,0,https://cdn.rebrickable.com/media/sets/76354-1.jpg
 7636-1,Combine Harvester,2009,57,365,https://cdn.rebrickable.com/media/sets/7636-1.jpg
 7637-1,Farm,2009,57,614,https://cdn.rebrickable.com/media/sets/7637-1.jpg
 7638-1,Tow Truck,2009,63,129,https://cdn.rebrickable.com/media/sets/7638-1.jpg
@@ -21785,7 +21791,7 @@ set_num,name,year,theme_id,num_parts,img_url
 8764-1,Vezon & Fenrakk,2006,324,281,https://cdn.rebrickable.com/media/sets/8764-1.jpg
 8769-1,Visorak's Gate,2005,341,335,https://cdn.rebrickable.com/media/sets/8769-1.jpg
 876993-1,Brick Eraser Set,2008,739,0,https://cdn.rebrickable.com/media/sets/876993-1.jpg
-8770-1,Danju,2004,198,42,https://cdn.rebrickable.com/media/sets/8770-1.jpg
+8770-1,Danju (European version without Cards),2004,198,42,https://cdn.rebrickable.com/media/sets/8770-1.jpg
 877-1,Supplementary Set,1979,4,30,https://cdn.rebrickable.com/media/sets/877-1.jpg
 8771-1,Jayko (European version without Cards),2004,198,45,https://cdn.rebrickable.com/media/sets/8771-1.jpg
 8772-1,Rascus (European version without Cards),2004,198,46,https://cdn.rebrickable.com/media/sets/8772-1.jpg
@@ -21798,8 +21804,8 @@ set_num,name,year,theme_id,num_parts,img_url
 878-1,Supplementary Set,1979,4,52,https://cdn.rebrickable.com/media/sets/878-1.jpg
 8781-1,Castle of Morcia,2004,198,661,https://cdn.rebrickable.com/media/sets/8781-1.jpg
 878119002341-1,Ninjago Storage Case Battle Arena,2012,740,0,https://cdn.rebrickable.com/media/sets/878119002341-1.jpg
-8782-1,Danju,2004,198,45,https://cdn.rebrickable.com/media/sets/8782-1.jpg
-8782-2,Danju [Target Exclusive],2004,198,48,https://cdn.rebrickable.com/media/sets/8782-2.jpg
+8782-1,Danju (USA version with 3 Cards),2004,198,45,https://cdn.rebrickable.com/media/sets/8782-1.jpg
+8782-2,"Danju (USA version with 6 Cards, Target Promo)",2004,198,48,https://cdn.rebrickable.com/media/sets/8782-2.jpg
 8783-1,Jayko (USA version with 3 Cards),2004,198,48,https://cdn.rebrickable.com/media/sets/8783-1.jpg
 8783-2,"Jayko (USA version with 6 Cards, Target Promo)",2004,198,51,https://cdn.rebrickable.com/media/sets/8783-2.jpg
 8784-1,Rascus (USA version with 3 Cards),2004,198,49,https://cdn.rebrickable.com/media/sets/8784-1.jpg
@@ -24265,6 +24271,7 @@ set_num,name,year,theme_id,num_parts,img_url
 9788325347208-1,Harry Potter: Playtime Companions,2025,761,7,https://cdn.rebrickable.com/media/sets/9788325347208-1.jpg
 9788325347215-1,Ninjago: Dragons Rising: The Heat is On,2025,761,10,https://cdn.rebrickable.com/media/sets/9788325347215-1.jpg
 978832541404-1,DC Comics Super Heroes: Time to play! Robin,2023,761,0,https://cdn.rebrickable.com/media/sets/978832541404-1.jpg
+9788828795346-1,Harry Potter: Avventure a Hogwarts,2026,761,6,https://cdn.rebrickable.com/media/sets/9788828795346-1.jpg
 9788866130087-1,Ruled Notebook (White),2014,739,0,https://cdn.rebrickable.com/media/sets/9788866130087-1.jpg
 9788867326181-1,Ruled Notebook (Red),2014,739,0,https://cdn.rebrickable.com/media/sets/9788867326181-1.jpg
 9788867326198-1,Plain Notebook (Black),2014,739,0,https://cdn.rebrickable.com/media/sets/9788867326198-1.jpg
@@ -25345,6 +25352,7 @@ LAPTOPBAG-1,90 Years of Play Laptop Bag,2022,777,0,https://cdn.rebrickable.com/m
 LASVEGAS-1,Grand Opening LEGO Store Las Vegas,2014,408,13,https://cdn.rebrickable.com/media/sets/lasvegas-1.jpg
 LBS450-1,DC Comics Super Heroes: 500 Stickers,2019,760,0,https://cdn.rebrickable.com/media/sets/lbs450-1.jpg
 LCS6002-1,City: Everyday Heroes: A Dog-gone Mystery,2024,759,14,https://cdn.rebrickable.com/media/sets/lcs6002-1.jpg
+LCS6301YDE-1,Star Wars: Geschichten aus der Galaxie,2026,759,27,https://cdn.rebrickable.com/media/sets/lcs6301yde-1.jpg
 LCS6701-1,Ninjago: Dragons Rising: New Ninja Stories: Challenge at the Crossroads,2024,761,23,https://cdn.rebrickable.com/media/sets/lcs6701-1.jpg
 ldd3-1,LEGO Digital Designer Promo,2009,598,3,https://cdn.rebrickable.com/media/sets/ldd3-1.jpg
 LE049-1,Essentials Stationery Set,2011,739,0,https://cdn.rebrickable.com/media/sets/le049-1.jpg
