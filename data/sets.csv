@@ -5287,7 +5287,7 @@ set_num,name,year,theme_id,num_parts,img_url
 3243-1,Kitchen,1997,668,111,https://cdn.rebrickable.com/media/sets/3243-1.jpg
 325-1,Basic Building Set,1990,467,110,https://cdn.rebrickable.com/media/sets/325-1.jpg
 325-2,Percy Pig and his Barrow,1979,390,6,https://cdn.rebrickable.com/media/sets/325-2.jpg
-325-3,Shell Service Station,1966,365,101,https://cdn.rebrickable.com/media/sets/325-3.jpg
+325-3,Shell Service Station,1966,365,102,https://cdn.rebrickable.com/media/sets/325-3.jpg
 3259-1,Kanoka Launcher And Disc,2004,324,2,https://cdn.rebrickable.com/media/sets/3259-1.jpg
 326-1,Small Cottage,1965,365,63,https://cdn.rebrickable.com/media/sets/326-1.jpg
 326-2,Suburban Set,1968,756,0,https://cdn.rebrickable.com/media/sets/326-2.jpg
@@ -14765,7 +14765,7 @@ set_num,name,year,theme_id,num_parts,img_url
 6491111-1,Sinterklaas Carrot,2023,227,61,https://cdn.rebrickable.com/media/sets/6491111-1.jpg
 6491112-1,Black Cat,2023,230,26,https://cdn.rebrickable.com/media/sets/6491112-1.jpg
 6491400-1,World Play Day 2023,2023,408,103,https://cdn.rebrickable.com/media/sets/6491400-1.jpg
-649-2,1:87 Mercedes Shell Tanker,1966,368,1,https://cdn.rebrickable.com/media/sets/649-2.jpg
+649-2,1:87 Mercedes Shell Tanker,1966,368,2,https://cdn.rebrickable.com/media/sets/649-2.jpg
 6492-1,Hypno Cruiser,1996,464,157,https://cdn.rebrickable.com/media/sets/6492-1.jpg
 6493-1,Flying Time Vessel,1996,464,239,https://cdn.rebrickable.com/media/sets/6493-1.jpg
 6494-1,Mystic Mountain Time Lab,1996,464,512,https://cdn.rebrickable.com/media/sets/6494-1.jpg
@@ -14781,7 +14781,7 @@ set_num,name,year,theme_id,num_parts,img_url
 650-1,Car with Trailer and Racing Car,1972,423,40,https://cdn.rebrickable.com/media/sets/650-1.jpg
 6501-1,Sport Convertible,1987,67,30,https://cdn.rebrickable.com/media/sets/6501-1.jpg
 6501726-1,Shamrock,2024,206,50,https://cdn.rebrickable.com/media/sets/6501726-1.jpg
-650-2,1:87 Mercedes Esso Tanker,1964,368,1,https://cdn.rebrickable.com/media/sets/650-2.jpg
+650-2,1:87 Mercedes Esso Tanker,1964,368,2,https://cdn.rebrickable.com/media/sets/650-2.jpg
 6502-1,Turbo Racer,1987,67,24,https://cdn.rebrickable.com/media/sets/6502-1.jpg
 65028-1,Star Wars Co-Pack,2001,158,0,https://cdn.rebrickable.com/media/sets/65028-1.jpg
 65030-1,Star Wars Co-Pack,2001,158,0,https://cdn.rebrickable.com/media/sets/65030-1.jpg
@@ -15945,7 +15945,7 @@ set_num,name,year,theme_id,num_parts,img_url
 6990-1,Monorail Transport System,1988,132,731,https://cdn.rebrickable.com/media/sets/6990-1.jpg
 699-1,Photo Safari,1977,423,130,https://cdn.rebrickable.com/media/sets/699-1.jpg
 6991-1,Monorail Transport Base,1994,145,573,https://cdn.rebrickable.com/media/sets/6991-1.jpg
-699-2,1:87 8 Trucks,1965,368,14,https://cdn.rebrickable.com/media/sets/699-2.jpg
+699-2,1:87 8 Trucks,1965,368,0,https://cdn.rebrickable.com/media/sets/699-2.jpg
 6992-1,Inika Toa Jaller Nestlé #6,2006,324,3,https://cdn.rebrickable.com/media/sets/6992-1.jpg
 6993-1,Inika Toa Kongu Nestlé #5,2006,324,3,https://cdn.rebrickable.com/media/sets/6993-1.jpg
 6994-1,Inika Toa Hahli Nestlé #4,2006,324,3,https://cdn.rebrickable.com/media/sets/6994-1.jpg
@@ -24906,6 +24906,8 @@ DATABASE-HO-3,Database Set for 1:87 VW Beetles (Short),1958,746,30,https://cdn.r
 DATABASE-HO-4,Database Set for 1:87 VW Beetles (Long),1959,746,14,https://cdn.rebrickable.com/media/sets/database-ho-4.jpg
 DATABASE-HO-5,Database Set for 1:38 VW Beetles,1957,746,10,https://cdn.rebrickable.com/media/sets/database-ho-5.jpg
 DATABASE-HO-6,Database Set for HO Bikes,1958,746,21,https://cdn.rebrickable.com/media/sets/database-ho-6.jpg
+DATABASE-HO-7,Database Set for 657-2,1964,368,20,https://cdn.rebrickable.com/media/sets/database-ho-7.jpg
+DATABASE-HO-8,Database Set for 699-2,1965,746,21,https://cdn.rebrickable.com/media/sets/database-ho-8.jpg
 DBASE-1,Database Set for Set 491-2,1966,746,15,https://cdn.rebrickable.com/media/sets/dbase-1.jpg
 DBASE-2,Database Set for Set 426-1,1966,746,13,https://cdn.rebrickable.com/media/sets/dbase-2.jpg
 DBASE-3,Database Set for 1210-2,1955,746,10,https://cdn.rebrickable.com/media/sets/dbase-3.jpg
@@ -25468,7 +25470,7 @@ L0002233-1,Phase 2 Clone Pilot,2026,158,5,https://cdn.rebrickable.com/media/sets
 L0002234-1,Anakin Skywalker,2026,158,6,https://cdn.rebrickable.com/media/sets/l0002234-1.jpg
 L0002246-1,Jungle Ranger and Stray,2026,577,19,https://cdn.rebrickable.com/media/sets/l0002246-1.jpg
 L0002247-1,Realm Raider with Creeper and TNT Launcher,2026,577,21,https://cdn.rebrickable.com/media/sets/l0002247-1.jpg
-L0002248-1,Hero in Enchanted Armour + Blaze,2026,577,22,https://cdn.rebrickable.com/media/sets/l0002248-1.jpg
+L0002248-1,Hero in Enchanted Armour + Blaze,2026,577,23,https://cdn.rebrickable.com/media/sets/l0002248-1.jpg
 L0002249-1,Hero with Illager,2026,577,9,https://cdn.rebrickable.com/media/sets/l0002249-1.jpg
 L0002270-1,Mr. Freeze & Snowman,2026,697,12,https://cdn.rebrickable.com/media/sets/l0002270-1.jpg
 L0002276-1,Black Panther with Hoverboard,2026,702,0,https://cdn.rebrickable.com/media/sets/l0002276-1.jpg
