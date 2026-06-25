@@ -165,6 +165,10 @@ set_num,name,year,theme_id,num_parts,img_url
 100302502-1,Ninjago Dragon Energy Junior Backpack,2025,777,0,https://cdn.rebrickable.com/media/sets/100302502-1.jpg
 100302505-1,City Space Explorer Junior Backpack,2025,777,0,https://cdn.rebrickable.com/media/sets/100302505-1.jpg
 100302506-1,Flowers Junior Backpack,2025,777,0,https://cdn.rebrickable.com/media/sets/100302506-1.jpg
+100302601-1,Ninjago Spinjitzu Master Junior Backpack,2026,777,0,https://cdn.rebrickable.com/media/sets/100302601-1.jpg
+100302602-1,Ninjago Kai Junior Backpack,2026,777,0,https://cdn.rebrickable.com/media/sets/100302602-1.jpg
+100302603-1,Ninjago Ninja Skills Junior Backpack,2026,777,0,https://cdn.rebrickable.com/media/sets/100302603-1.jpg
+100302605-1,City Hyper Speed Junior Backpack,2026,777,0,https://cdn.rebrickable.com/media/sets/100302605-1.jpg
 100311708-1,Nexo Knights Shoulder Bag,2018,777,0,https://cdn.rebrickable.com/media/sets/100311708-1.jpg
 100311837-1,Friends Juice Bar Shoulder Bag,2020,777,0,https://cdn.rebrickable.com/media/sets/100311837-1.jpg
 100321710-1,Friend Pencil Case,2017,739,0,https://cdn.rebrickable.com/media/sets/100321710-1.jpg
@@ -218,7 +222,10 @@ set_num,name,year,theme_id,num_parts,img_url
 100522108-1,Purple Pencil Case,2021,739,0,https://cdn.rebrickable.com/media/sets/100522108-1.jpg
 100522110-1,Navy Pencil Case,2023,739,0,https://cdn.rebrickable.com/media/sets/100522110-1.jpg
 100522501-1,Ninjago Elemental Master Of Energy Pencil Case,2025,739,0,https://cdn.rebrickable.com/media/sets/100522501-1.jpg
+100522502-1,Ninjago Dragon Energy Pencil Case,2023,739,0,https://cdn.rebrickable.com/media/sets/100522502-1.jpg
 100522511-1,Bricks Pencil Case,2025,739,0,https://cdn.rebrickable.com/media/sets/100522511-1.jpg
+100522601-1,Ninjago Spinjitzu Master Pencil Case,2026,739,0,https://cdn.rebrickable.com/media/sets/100522601-1.jpg
+100522602-1,Ninjago Kai Pencil Case,2026,739,0,https://cdn.rebrickable.com/media/sets/100522602-1.jpg
 100522603-1,Ninjago Ninja Skills Pencil Case,2025,739,0,https://cdn.rebrickable.com/media/sets/100522603-1.jpg
 10053-1,Black Slopes 33,2003,254,44,https://cdn.rebrickable.com/media/sets/10053-1.jpg
 10054-1,Black Slopes 33 3 x 2 and 3 x 4,2003,254,68,https://cdn.rebrickable.com/media/sets/10054-1.jpg
@@ -1362,8 +1369,20 @@ set_num,name,year,theme_id,num_parts,img_url
 115514-1,Luke Skywalker Collectable Coin,2026,501,0,https://cdn.rebrickable.com/media/sets/115514-1.jpg
 116001-1,Verden Rundt Trading Cards - Random Pack (Danish Version),2017,501,0,https://cdn.rebrickable.com/media/sets/116001-1.jpg
 1160-1,"TECHNIC Pneumatic Tubing, 40cm +100cm",1985,453,2,https://cdn.rebrickable.com/media/sets/1160-1.jpg
+1160307027-1,Herschel Classic Backpack - Falling Florals,2025,777,0,https://cdn.rebrickable.com/media/sets/1160307027-1.jpg
+1160307029-1,Herschel Classic Backpack - Garden Floral,2025,777,0,https://cdn.rebrickable.com/media/sets/1160307029-1.jpg
+1160307462-1,Herschel Classic Backpack - Abstract Bricks Black,2025,777,0,https://cdn.rebrickable.com/media/sets/1160307462-1.jpg
+1160407027-1,Herschel Classic XL Backpack - Falling Florals,2025,777,0,https://cdn.rebrickable.com/media/sets/1160407027-1.jpg
+1160407462-1,Herschel Classic XL Backpack - Abstract Bricks Black,2025,777,0,https://cdn.rebrickable.com/media/sets/1160407462-1.jpg
+1160907029-1,Herschel Classic Crossbody - Garden Floral,2025,777,0,https://cdn.rebrickable.com/media/sets/1160907029-1.jpg
 116-1,Starter Train Set with Motor,1967,235,362,https://cdn.rebrickable.com/media/sets/116-1.jpg
 1161-1,TECHNIC Pneumatic Pump Cylinder 48mm,1985,453,1,https://cdn.rebrickable.com/media/sets/1161-1.jpg
+1161207027-1,Herschel Retreat Tote - Falling Florals,2025,777,0,https://cdn.rebrickable.com/media/sets/1161207027-1.jpg
+1161307032-1,Heritage Pencil Case Little Herschel - Scavenger Hunt Bricks,2025,739,0,https://cdn.rebrickable.com/media/sets/1161307032-1.jpg
+1161307033-1,Heritage Pencil Case Little Herschel - Scavenger Hunt Meadow,2025,739,0,https://cdn.rebrickable.com/media/sets/1161307033-1.jpg
+1161507033-1,Herschel Heritage Kids Backpack - Scavenger Hunt Meadow,2025,777,0,https://cdn.rebrickable.com/media/sets/1161507033-1.jpg
+1161607027-1,Herschel Heritage Youth Backpack - Falling Florals,2025,777,0,https://cdn.rebrickable.com/media/sets/1161607027-1.jpg
+1161607463-1,Herschel Heritage Youth Backpack - Abstract Bricks Blue,2025,777,0,https://cdn.rebrickable.com/media/sets/1161607463-1.jpg
 116-2,Deluxe Motorized Train Set,1968,235,364,https://cdn.rebrickable.com/media/sets/116-2.jpg
 1162-1,TECHNIC Pneumatic Piston Cylinder 48mm,1985,453,1,https://cdn.rebrickable.com/media/sets/1162-1.jpg
 1163-1,TECHNIC Pneumatic Piston Cylinder 60mm,1985,453,1,https://cdn.rebrickable.com/media/sets/1163-1.jpg
@@ -1378,9 +1397,11 @@ set_num,name,year,theme_id,num_parts,img_url
 1172-1,Colored Globes,1986,443,5,https://cdn.rebrickable.com/media/sets/1172-1.jpg
 1174-1,Motorhome for Basic Motor 4.5V/Train Motor 12V,1986,443,2,https://cdn.rebrickable.com/media/sets/1174-1.jpg
 1175-1,4.5v TECHNIC Motor,1982,453,1,https://cdn.rebrickable.com/media/sets/1175-1.jpg
+1175207373-1,Herschel Classic XL Backpack - Scavenger Hunt Meadow,2025,777,0,https://cdn.rebrickable.com/media/sets/1175207373-1.jpg
 1176-1,Gear Racks and Turntables,1978,453,6,https://cdn.rebrickable.com/media/sets/1176-1.jpg
 1177-1,Santa In Truck with Polar Bear,2000,227,27,https://cdn.rebrickable.com/media/sets/1177-1.jpg
 1178007027-1,Herschel Heritage Kids Backpack - Falling Florals,2025,777,0,https://cdn.rebrickable.com/media/sets/1178007027-1.jpg
+1178007463-1,Herschel Heritage Kids Backpack - Abstract Bricks Blue,2025,777,0,https://cdn.rebrickable.com/media/sets/1178007463-1.jpg
 1178-1,"Siren, Black",1986,443,1,https://cdn.rebrickable.com/media/sets/1178-1.jpg
 1179-1,Replacement Space Siren,1986,443,1,https://cdn.rebrickable.com/media/sets/1179-1.jpg
 1180-1,Space Port Moon Buggy,1999,93,25,https://cdn.rebrickable.com/media/sets/1180-1.jpg
@@ -2700,6 +2721,7 @@ set_num,name,year,theme_id,num_parts,img_url
 200632501-1,Ninjago Elemental Master Of Energy Card Wallet,2025,501,0,https://cdn.rebrickable.com/media/sets/200632501-1.jpg
 200632502-1,Ninjago Dragon Energy Card Wallet,2025,501,0,https://cdn.rebrickable.com/media/sets/200632502-1.jpg
 200632506-1,Flowers Card Wallet,2025,501,0,https://cdn.rebrickable.com/media/sets/200632506-1.jpg
+200632602-1,Ninjago Kai Card Wallet,2026,501,0,https://cdn.rebrickable.com/media/sets/200632602-1.jpg
 200651822-1,Spaceman Backpack,2018,777,0,https://cdn.rebrickable.com/media/sets/200651822-1.jpg
 200691814-1,Friends Confetti Backpack,2019,777,0,https://cdn.rebrickable.com/media/sets/200691814-1.jpg
 200701806-1,Ninjago Comic Toiletry Bag,2018,777,0,https://cdn.rebrickable.com/media/sets/200701806-1.jpg
@@ -2730,6 +2752,9 @@ set_num,name,year,theme_id,num_parts,img_url
 200852502-1,Ninjago Dragon Energy Pencil Case with Pencils,2025,739,0,https://cdn.rebrickable.com/media/sets/200852502-1.jpg
 200852506-1,Flowers Pencil Case with Pencils,2025,739,0,https://cdn.rebrickable.com/media/sets/200852506-1.jpg
 200852511-1,Bricks Pencil Case with Pencils,2025,739,0,https://cdn.rebrickable.com/media/sets/200852511-1.jpg
+200852601-1,Ninjago Spinjitzu Master Pencil Case with Pencils,2026,739,0,https://cdn.rebrickable.com/media/sets/200852601-1.jpg
+200852602-1,Ninjago Kai Pencil Case with Pencils,2026,739,0,https://cdn.rebrickable.com/media/sets/200852602-1.jpg
+200852603-1,Ninjago Ninja Skills Pencil Case with Pencils,2025,739,0,https://cdn.rebrickable.com/media/sets/200852603-1.jpg
 2009-1,Large Bulk Box,1997,440,25,https://cdn.rebrickable.com/media/sets/2009-1.jpg
 2009119-1,Bob the Builder ACP,2001,516,0,https://cdn.rebrickable.com/media/sets/2009119-1.jpg
 2009-2,Heart 2009,2009,599,92,https://cdn.rebrickable.com/media/sets/2009-2.jpg
@@ -2765,11 +2790,16 @@ set_num,name,year,theme_id,num_parts,img_url
 2014-1,Oval Rattle,1986,663,1,https://cdn.rebrickable.com/media/sets/2014-1.jpg
 2015-1,Oval Rattle,1983,663,1,https://cdn.rebrickable.com/media/sets/2015-1.jpg
 201521963-1,Urban Suitcase Trolley (All Colors),2021,777,0,https://cdn.rebrickable.com/media/sets/201521963-1.jpg
+201602501-1,Ninjago Elemental Master of Energy,2025,777,0,https://cdn.rebrickable.com/media/sets/201602501-1.jpg
+201602502-1,Ninjago Dragon Energy Trolley Suitcase,2025,777,0,https://cdn.rebrickable.com/media/sets/201602502-1.jpg
+201602524-1,Ninjago Ninja Lloyd Trolley Suitcase,2026,777,0,https://cdn.rebrickable.com/media/sets/201602524-1.jpg
+201602623-1,Today I Feel Trolley Suitcase (Red),2026,777,0,https://cdn.rebrickable.com/media/sets/201602623-1.jpg
 201641974-1,Colourbox Brick Dots (All Colors),2021,777,0,https://cdn.rebrickable.com/media/sets/201641974-1.jpg
 201692003-1,City Police,2020,777,0,https://cdn.rebrickable.com/media/sets/201692003-1.jpg
 2017-1,Choo Choo Train,1998,440,13,https://cdn.rebrickable.com/media/sets/2017-1.jpg
 201722011-1,Ninjago Jay Explorer Easy Backpack,2020,777,0,https://cdn.rebrickable.com/media/sets/201722011-1.jpg
 2018-1,Timmy's Stack 'n' Learn Set,1998,440,21,https://cdn.rebrickable.com/media/sets/2018-1.jpg
+201871918-1,3D Minifigure Head Shoulder Bag,2026,777,0,https://cdn.rebrickable.com/media/sets/201871918-1.jpg
 201908-mmb,Owl,2019,409,32,https://cdn.rebrickable.com/media/sets/201908-mmb.jpg
 2019-1,Building Fun,1998,440,29,https://cdn.rebrickable.com/media/sets/2019-1.jpg
 201922101-1,Ninjago Green Lloyd Backpack,2021,777,0,https://cdn.rebrickable.com/media/sets/201922101-1.jpg
@@ -2826,6 +2856,8 @@ set_num,name,year,theme_id,num_parts,img_url
 202222505-1,City Space Explorer Backpack,2025,777,0,https://cdn.rebrickable.com/media/sets/202222505-1.jpg
 202222506-1,Flowers Backpack,2025,777,0,https://cdn.rebrickable.com/media/sets/202222506-1.jpg
 202222511-1,Bricks Backpack,2025,777,0,https://cdn.rebrickable.com/media/sets/202222511-1.jpg
+202222601-1,Ninjago Spinjitzu Master Backpack,2026,777,0,https://cdn.rebrickable.com/media/sets/202222601-1.jpg
+202222602-1,Ninjago Kai Backpack,2026,777,0,https://cdn.rebrickable.com/media/sets/202222602-1.jpg
 202282201-1,Ninjago Lloyd Backpack with Gym Bag and Pencil Case,2022,777,0,https://cdn.rebrickable.com/media/sets/202282201-1.jpg
 202282202-1,Ninjago Kai Backpack with Gym Bag and Pencil Case,2022,777,0,https://cdn.rebrickable.com/media/sets/202282202-1.jpg
 202282203-1,Ninjago Prime Empire Backpack with Gym Bag and Pencil Case,2022,777,0,https://cdn.rebrickable.com/media/sets/202282203-1.jpg
@@ -2860,15 +2892,23 @@ set_num,name,year,theme_id,num_parts,img_url
 202542502-1,Ninjago Dragon Energy School Bag Set,2025,777,0,https://cdn.rebrickable.com/media/sets/202542502-1.jpg
 202542505-1,City Space Explorer School Bag Set,2025,777,0,https://cdn.rebrickable.com/media/sets/202542505-1.jpg
 202542506-1,Flowers School Bag Set,2025,777,0,https://cdn.rebrickable.com/media/sets/202542506-1.jpg
+202542602-1,Ninjago Kai School Bag Set,2026,777,0,https://cdn.rebrickable.com/media/sets/202542602-1.jpg
 202662501-1,Ninjago Elemental Master Of Energy Basic Backpack,2025,777,0,https://cdn.rebrickable.com/media/sets/202662501-1.jpg
 202662603-1,Ninjago Ninja Skills Backpack,2025,777,0,https://cdn.rebrickable.com/media/sets/202662603-1.jpg
 2027-1,Alpha Pen Pack,2000,739,0,https://cdn.rebrickable.com/media/sets/2027-1.jpg
 202742603-1,Ninjago Ninja Skills Backpack Trolley,2025,777,0,https://cdn.rebrickable.com/media/sets/202742603-1.jpg
+202792408-1,Ninjago Green Backpack,2024,777,0,https://cdn.rebrickable.com/media/sets/202792408-1.jpg
+202792409-1,Ninjago Red Backpack,2024,777,0,https://cdn.rebrickable.com/media/sets/202792409-1.jpg
 202792410-1,Friends Nova and Aliya Backpack,2024,777,0,https://cdn.rebrickable.com/media/sets/202792410-1.jpg
+202792508-1,Ninjago Lloyd Backpack,2025,777,0,https://cdn.rebrickable.com/media/sets/202792508-1.jpg
+202792512-1,Ninjago Jay Backpack,2026,777,0,https://cdn.rebrickable.com/media/sets/202792512-1.jpg
+202792513-1,Ninjago Cole Backpack,2025,777,0,https://cdn.rebrickable.com/media/sets/202792513-1.jpg
 202792603-1,Ninjago Ninja Skills Backpack,2025,777,0,https://cdn.rebrickable.com/media/sets/202792603-1.jpg
 2028-1,Classic Pen Pack,2000,739,38,https://cdn.rebrickable.com/media/sets/2028-1.jpg
 202812410-1,Friends Nova and Aliya Backpack,2024,777,0,https://cdn.rebrickable.com/media/sets/202812410-1.jpg
+202812508-1,Ninjago Lloyd Backpack,2026,777,0,https://cdn.rebrickable.com/media/sets/202812508-1.jpg
 202812512-1,Ninjago Jay Backpack,2025,777,0,https://cdn.rebrickable.com/media/sets/202812512-1.jpg
+202812513-1,Ninjago Cole Junior Backpack,2026,777,0,https://cdn.rebrickable.com/media/sets/202812513-1.jpg
 2028-2,Try-Me-Set with Bee,1998,440,5,https://cdn.rebrickable.com/media/sets/2028-2.jpg
 202832408-1,Ninjago Green Duffle Bag,2024,777,0,https://cdn.rebrickable.com/media/sets/202832408-1.jpg
 202832409-1,Ninjago Red Duffle Bag,2024,777,0,https://cdn.rebrickable.com/media/sets/202832409-1.jpg
@@ -2878,11 +2918,18 @@ set_num,name,year,theme_id,num_parts,img_url
 202842502-1,Ninjago Dragon Energy Lunch Bag,2025,733,0,https://cdn.rebrickable.com/media/sets/202842502-1.jpg
 202842505-1,City Space Explorer Lunch Bag,2025,733,0,https://cdn.rebrickable.com/media/sets/202842505-1.jpg
 202842506-1,Flowers Lunch Bag,2025,733,0,https://cdn.rebrickable.com/media/sets/202842506-1.jpg
+202842508-1,Ninjago Lloyd Lunch Bag,2026,733,0,https://cdn.rebrickable.com/media/sets/202842508-1.jpg
+202842512-1,Ninjago Jay Lunch Bag,2026,733,0,https://cdn.rebrickable.com/media/sets/202842512-1.jpg
+202842513-1,Ninjago Cole Lunch Bag,2026,733,0,https://cdn.rebrickable.com/media/sets/202842513-1.jpg
 202852410-1,Friends Nova and Aliya Toiletry Bag,2024,777,0,https://cdn.rebrickable.com/media/sets/202852410-1.jpg
 202862410-1,Friends Nova and Aliya Gym Bag,2024,777,0,https://cdn.rebrickable.com/media/sets/202862410-1.jpg
+202862508-1,Ninjago Lloyd Gym Bag,2025,777,0,https://cdn.rebrickable.com/media/sets/202862508-1.jpg
+202862512-1,Ninjago Jay Gym Bag,2026,777,0,https://cdn.rebrickable.com/media/sets/202862512-1.jpg
+202862513-1,Ninjago Cole Gym Bag,2026,777,0,https://cdn.rebrickable.com/media/sets/202862513-1.jpg
 202872410-1,Friends Nova and Aliya Pencil Case,2024,739,0,https://cdn.rebrickable.com/media/sets/202872410-1.jpg
 202882410-1,Friends Nova and Aliya Wallet,2024,501,0,https://cdn.rebrickable.com/media/sets/202882410-1.jpg
 202882508-1,Ninjago Lloyd Wallet,2025,501,0,https://cdn.rebrickable.com/media/sets/202882508-1.jpg
+202882512-1,Ninjago Jay Wallet,2026,501,0,https://cdn.rebrickable.com/media/sets/202882512-1.jpg
 202882513-1,Ninjago Cole Wallet,2025,501,0,https://cdn.rebrickable.com/media/sets/202882513-1.jpg
 202892410-1,Friends Nova and Aliya Pencil Case,2024,739,0,https://cdn.rebrickable.com/media/sets/202892410-1.jpg
 2029-1,Dream Star Pen Pack,2000,739,39,https://cdn.rebrickable.com/media/sets/2029-1.jpg
@@ -2891,18 +2938,29 @@ set_num,name,year,theme_id,num_parts,img_url
 202912505-1,City Space Explorer 3-Layered Pencil Case with Pencils,2025,739,0,https://cdn.rebrickable.com/media/sets/202912505-1.jpg
 202912506-1,Flowers 3-Layered Pencil Case with Pencils,2025,739,0,https://cdn.rebrickable.com/media/sets/202912506-1.jpg
 202912511-1,Bricks 3-Layered Pencil Case,2025,739,0,https://cdn.rebrickable.com/media/sets/202912511-1.jpg
+202912601-1,Ninjago Spinjitzu Master 3-Layered Pencil Case with Pencils,2026,739,0,https://cdn.rebrickable.com/media/sets/202912601-1.jpg
+202912602-1,Ninjago Kai 3-Layered Pencil Case with Pencils,2026,739,0,https://cdn.rebrickable.com/media/sets/202912602-1.jpg
 202912603-1,Ninjago Ninja Skills 3-Layered Pencil Case with Pencils,2025,739,0,https://cdn.rebrickable.com/media/sets/202912603-1.jpg
 2029-2,Stack 'N' Learn Set,1998,440,8,https://cdn.rebrickable.com/media/sets/2029-2.jpg
+202952512-1,Ninjago Jay Pencil Case with Pencils,2026,739,0,https://cdn.rebrickable.com/media/sets/202952512-1.jpg
+202952513-1,Ninjago Cole Pencil Case with Pencils,2026,739,0,https://cdn.rebrickable.com/media/sets/202952513-1.jpg
 2030-1,Safari Pen Pack,2000,739,27,https://cdn.rebrickable.com/media/sets/2030-1.jpg
 2030-2,Squirting Frog,1999,440,1,https://cdn.rebrickable.com/media/sets/2030-2.jpg
+203022601-1,Ninjago Spinjitzu Master Easy Set,2026,777,0,https://cdn.rebrickable.com/media/sets/203022601-1.jpg
+203042301-1,Ninjago Lloyd School Bag Set of 6,2022,777,0,https://cdn.rebrickable.com/media/sets/203042301-1.jpg
 2031-1,Tiny Turtle,1999,440,2,https://cdn.rebrickable.com/media/sets/2031-1.jpg
 203160023-1,Carry-on & Backpack Luggage Set (All Colors),2024,777,0,https://cdn.rebrickable.com/media/sets/203160023-1.jpg
 2032-1,Helicopter,1999,470,18,https://cdn.rebrickable.com/media/sets/2032-1.jpg
 2032-2,Space Port Pen Pack,2001,739,29,https://cdn.rebrickable.com/media/sets/2032-2.jpg
 203242603-1,Ninjago Ninja Skills Backpack,2025,777,0,https://cdn.rebrickable.com/media/sets/203242603-1.jpg
+203282601-1,Ninjago Spinjitzu Master School Backpack,2026,777,0,https://cdn.rebrickable.com/media/sets/203282601-1.jpg
+203282602-1,Ninjago Kai School Backpack,2026,777,0,https://cdn.rebrickable.com/media/sets/203282602-1.jpg
+203292601-1,Ninjago Spinjitzu Master FlexiFit Backpack,2026,777,0,https://cdn.rebrickable.com/media/sets/203292601-1.jpg
+203292602-1,Ninjago Kai FlexiFit Backpack,2026,777,0,https://cdn.rebrickable.com/media/sets/203292602-1.jpg
 2033-1,Clown Shape Sorter,1985,504,8,https://cdn.rebrickable.com/media/sets/2033-1.jpg
 2033-2,Life On Mars Pen Pack,2001,739,29,https://cdn.rebrickable.com/media/sets/2033-2.jpg
 203332603-1,Ninjago Ninja Skills Standing Pencil Case,2025,739,0,https://cdn.rebrickable.com/media/sets/203332603-1.jpg
+203392602-1,Ninjago Kai Lunch Box,2026,733,0,https://cdn.rebrickable.com/media/sets/203392602-1.jpg
 203392603-1,Ninjago Ninja Skills Lunch Box,2025,733,0,https://cdn.rebrickable.com/media/sets/203392603-1.jpg
 2035-1,Sport Pen Pack,2002,739,27,https://cdn.rebrickable.com/media/sets/2035-1.jpg
 203522603-1,Ninjago Ninja Skills Pencil Case,2025,739,0,https://cdn.rebrickable.com/media/sets/203522603-1.jpg
@@ -4421,6 +4479,12 @@ set_num,name,year,theme_id,num_parts,img_url
 30131-1,Jack Sparrow's Boat,2011,263,21,https://cdn.rebrickable.com/media/sets/30131-1.jpg
 30132-1,Voodoo Jack,2011,263,4,https://cdn.rebrickable.com/media/sets/30132-1.jpg
 30133-1,Jack Sparrow,2011,263,4,https://cdn.rebrickable.com/media/sets/30133-1.jpg
+3013707027-1,Herschel Pop Quiz Lunch Box - Falling Florals,2025,733,0,https://cdn.rebrickable.com/media/sets/3013707027-1.jpg
+3013707462-1,Herschel Pop Quiz Lunch Box - Abstract Bricks Black,2025,733,0,https://cdn.rebrickable.com/media/sets/3013707462-1.jpg
+3013907027-1,Pop Quiz Lunch Box Little Herschel - Falling Florals,2025,733,0,https://cdn.rebrickable.com/media/sets/3013907027-1.jpg
+3013907463-1,Pop Quiz Lunch Box Little Herschel - Abstract Bricks Blue,2025,733,0,https://cdn.rebrickable.com/media/sets/3013907463-1.jpg
+3014007027-1,Settlement Pencil Case Little Herschel - Falling Florals,2025,739,0,https://cdn.rebrickable.com/media/sets/3014007027-1.jpg
+3014007463-1,Settlement Pencil Case Little Herschel - Abstract Bricks Blue,2025,739,0,https://cdn.rebrickable.com/media/sets/3014007463-1.jpg
 30140-1,ADU Walker,2011,127,34,https://cdn.rebrickable.com/media/sets/30140-1.jpg
 3014-1,Ice Planet Scooter,1999,133,19,https://cdn.rebrickable.com/media/sets/3014-1.jpg
 30141-1,ADU Jetpack,2011,127,19,https://cdn.rebrickable.com/media/sets/30141-1.jpg
@@ -6247,6 +6311,7 @@ set_num,name,year,theme_id,num_parts,img_url
 4000043-1,Vietnam 2025 Factory,2025,599,346,https://cdn.rebrickable.com/media/sets/4000043-1.jpg
 4000045-1,Nyíregyháza 2025 Factory,2025,599,531,https://cdn.rebrickable.com/media/sets/4000045-1.jpg
 4000046-1,LEGO Inside Tour Anniversary Collection,2025,599,1912,https://cdn.rebrickable.com/media/sets/4000046-1.jpg
+4000048-1,Bugatti Type 35,2026,599,5,https://cdn.rebrickable.com/media/sets/4000048-1.jpg
 4000049-1,Vintage LEGO Logo,2026,599,0,https://cdn.rebrickable.com/media/sets/4000049-1.jpg
 40000803-1,Storage Brick 2 x 3 (All Colors),2023,740,0,https://cdn.rebrickable.com/media/sets/40000803-1.jpg
 40001-1,Santa Claus,2009,227,42,https://cdn.rebrickable.com/media/sets/40001-1.jpg
@@ -14873,7 +14938,6 @@ set_num,name,year,theme_id,num_parts,img_url
 6394854-1,Shenzhen Brand Store Opening Associate Figure,2021,408,129,https://cdn.rebrickable.com/media/sets/6394854-1.jpg
 6394855-1,Guangzhou Brand Store Opening Associate Figure,2021,408,129,https://cdn.rebrickable.com/media/sets/6394855-1.jpg
 6395-1,Victory Lap Raceway,1988,67,614,https://cdn.rebrickable.com/media/sets/6395-1.jpg
-6395519-1,Land Duck,2026,504,6,https://cdn.rebrickable.com/media/sets/6395519-1.jpg
 6396-1,International Jetport,1990,67,554,https://cdn.rebrickable.com/media/sets/6396-1.jpg
 6396384-1,Tiger,2022,779,28,https://cdn.rebrickable.com/media/sets/6396384-1.jpg
 6397-1,Gas N' Wash Express,1992,67,474,https://cdn.rebrickable.com/media/sets/6397-1.jpg
@@ -15507,6 +15571,7 @@ set_num,name,year,theme_id,num_parts,img_url
 6613935-1,LEGO Master Logo,2025,598,0,https://cdn.rebrickable.com/media/sets/6613935-1.jpg
 6614-1,Launch Evac 1,1995,88,123,https://cdn.rebrickable.com/media/sets/6614-1.jpg
 6614204-1,Dragon of Life,2026,435,40,https://cdn.rebrickable.com/media/sets/6614204-1.jpg
+6614208-1,Duplo Land Duck,2026,504,6,https://cdn.rebrickable.com/media/sets/6614208-1.jpg
 66142-1,Star Wars Value Pack,2006,158,0,https://cdn.rebrickable.com/media/sets/66142-1.jpg
 6614210-1,Fries Stand,2026,408,38,https://cdn.rebrickable.com/media/sets/6614210-1.jpg
 6614211-1,Treat Stand,2026,494,36,https://cdn.rebrickable.com/media/sets/6614211-1.jpg
@@ -19635,7 +19700,7 @@ set_num,name,year,theme_id,num_parts,img_url
 76473-1,Hogwarts Castle: East Wing,2026,246,2164,https://cdn.rebrickable.com/media/sets/76473-1.jpg
 76474-1,Hogwarts Herbology Plants,2026,246,817,https://cdn.rebrickable.com/media/sets/76474-1.jpg
 76475-1,Forbidden Forest: Expecto Patronum,2026,246,245,https://cdn.rebrickable.com/media/sets/76475-1.jpg
-76477-1,Norbert: Hagrid's Baby Dragon,2026,246,482,https://cdn.rebrickable.com/media/sets/76477-1.jpg
+76477-1,Norbert: Hagrid's Baby Dragon,2026,246,483,https://cdn.rebrickable.com/media/sets/76477-1.jpg
 76478-1,Book Nook: Dumbledore's Office,2026,246,1184,https://cdn.rebrickable.com/media/sets/76478-1.jpg
 7648-1,MT-21 Mobile Mining Unit,2008,137,130,https://cdn.rebrickable.com/media/sets/7648-1.jpg
 7649-1,MT-201 Ultra-Drill Walker,2008,137,759,https://cdn.rebrickable.com/media/sets/7649-1.jpg
@@ -20455,7 +20520,7 @@ set_num,name,year,theme_id,num_parts,img_url
 8133-1,Rally Rider,2007,112,51,https://cdn.rebrickable.com/media/sets/8133-1.jpg
 81336-1,Ninjago: Dragons Rising Bottle (430ml),2026,733,0,https://cdn.rebrickable.com/media/sets/81336-1.jpg
 8134-1,Night Crusher,2007,112,264,https://cdn.rebrickable.com/media/sets/8134-1.jpg
-81350-1,Ninjago: Dragons Rising 3 Piece Microwave Safe Set,2026,733,0,https://cdn.rebrickable.com/media/sets/81350-1.jpg
+81350-1,Ninjago: Dragons Rising 5 Piece Microwave Safe Set,2026,733,0,https://cdn.rebrickable.com/media/sets/81350-1.jpg
 8135-1,Bridge Chase,2007,112,542,https://cdn.rebrickable.com/media/sets/8135-1.jpg
 81353-1,Ninjago: Dragons Rising Lunch Bag,2026,733,0,https://cdn.rebrickable.com/media/sets/81353-1.jpg
 81356-1,Ninjago: Dragons Rising Tumbler,2026,733,0,https://cdn.rebrickable.com/media/sets/81356-1.jpg
@@ -23508,7 +23573,6 @@ set_num,name,year,theme_id,num_parts,img_url
 951394-1,Spider-Man with Web,2026,706,7,https://cdn.rebrickable.com/media/sets/951394-1.jpg
 951399-1,Anti-Venom,2026,706,10,https://cdn.rebrickable.com/media/sets/951399-1.jpg
 951405-1,Republic Gunship,2026,158,59,https://cdn.rebrickable.com/media/sets/951405-1.jpg
-951414-1,Jango Fett,2026,158,8,https://cdn.rebrickable.com/media/sets/951414-1.jpg
 951440-1,Police Buggy,2026,61,37,https://cdn.rebrickable.com/media/sets/951440-1.jpg
 951441-1,Construction Worker with Wheel Loader,2026,56,39,https://cdn.rebrickable.com/media/sets/951441-1.jpg
 951442-1,Cockatoo,2026,672,69,https://cdn.rebrickable.com/media/sets/951442-1.jpg
@@ -25432,7 +25496,7 @@ DATABASE-2022,2022 - Unused Parts Database Set,2022,746,72,https://cdn.rebrickab
 DATABASE-2023,2023 - Unused Parts Database Set,2023,746,50,https://cdn.rebrickable.com/media/sets/database-2023.jpg
 DATABASE-2024,2024 - Unused Parts Database Set,2024,746,35,https://cdn.rebrickable.com/media/sets/database-2024.jpg
 DATABASE-2025,2025 - Unused Parts Database Set,2025,746,26,https://cdn.rebrickable.com/media/sets/database-2025.jpg
-DATABASE-2026,2026 - Unused Parts Database Set,2026,746,10,https://cdn.rebrickable.com/media/sets/database-2026.jpg
+DATABASE-2026,2026 - Unused Parts Database Set,2026,746,11,https://cdn.rebrickable.com/media/sets/database-2026.jpg
 DATABASE-HO-1,Database Set for 1:87 Mercedes Sport,1963,746,11,https://cdn.rebrickable.com/media/sets/database-ho-1.jpg
 DATABASE-HO-2,Database Set for 1:87 VW Vans,1958,746,26,https://cdn.rebrickable.com/media/sets/database-ho-2.jpg
 DATABASE-HO-3,Database Set for 1:87 VW Beetles (Short),1958,746,30,https://cdn.rebrickable.com/media/sets/database-ho-3.jpg
@@ -25750,6 +25814,8 @@ GU3739-1,Adidas Water Bottle - Black,2021,733,0,https://cdn.rebrickable.com/medi
 GUANGZHOU-1,The LEGO Store (Guangzhou),2021,408,10,https://cdn.rebrickable.com/media/sets/guangzhou-1.jpg
 GUANGZHOU-2,The LEGO Store (Guangzhou) - Brick,2021,408,1,https://cdn.rebrickable.com/media/sets/guangzhou-2.jpg
 GUARDIANDRAGON-1,Guardian Dragon & Fire Mech,2025,435,183,https://cdn.rebrickable.com/media/sets/guardiandragon-1.jpg
+GW1875-1,adidas Racer TR x LEGO (Black Equipment Yellow) - Infant Shoes,2022,501,0,https://cdn.rebrickable.com/media/sets/gw1875-1.jpg
+GW1878-1,adidas Racer TR x LEGO (Black Equipment Yellow) - Kids Shoes,2022,501,0,https://cdn.rebrickable.com/media/sets/gw1878-1.jpg
 GWP-1,Flower Garden & Beach Cleanup Bundle,2024,559,0,https://cdn.rebrickable.com/media/sets/gwp-1.jpg
 GWP-3,Zoey's Dream Jet Pack Booster and Z-Blob and Bunchu Spider Escape GWP,2024,749,0,https://cdn.rebrickable.com/media/sets/gwp-3.jpg
 HAINING-1,LEGO China 300th Certified Store Opening Commemorative Minifigure Set,2021,408,1,https://cdn.rebrickable.com/media/sets/haining-1.jpg
@@ -25783,6 +25849,7 @@ HPG02-1,Harry Potter Gallery 2,2002,246,17,https://cdn.rebrickable.com/media/set
 HPG03-1,Harry Potter Gallery 3,2002,246,23,https://cdn.rebrickable.com/media/sets/hpg03-1.jpg
 HPG04-1,Harry Potter Gallery 4,2002,246,23,https://cdn.rebrickable.com/media/sets/hpg04-1.jpg
 HPMAGICWAND-1,Harry Potter Magic Wand,2018,246,18,https://cdn.rebrickable.com/media/sets/hpmagicwand-1.jpg
+HQ1315-1,adidas Racer TR21 x LEGO (White Green) - Kids Shoes,2023,501,0,https://cdn.rebrickable.com/media/sets/hq1315-1.jpg
 HT6361-1,Adidas Steel Bottle,2023,733,0,https://cdn.rebrickable.com/media/sets/ht6361-1.jpg
 HUBBLEMOSAIC-1,Hubble Image Mosaic,2021,301,179,https://cdn.rebrickable.com/media/sets/hubblemosaic-1.jpg
 ICECREAMTRUCK-1,Ice Cream Truck,2020,494,60,https://cdn.rebrickable.com/media/sets/icecreamtruck-1.jpg
@@ -26036,10 +26103,10 @@ L0002232-1,Night Trooper,2026,158,5,https://cdn.rebrickable.com/media/sets/l0002
 L0002233-1,Phase 2 Clone Pilot,2026,158,5,https://cdn.rebrickable.com/media/sets/l0002233-1.jpg
 L0002234-1,Anakin Skywalker,2026,158,6,https://cdn.rebrickable.com/media/sets/l0002234-1.jpg
 L0002235-1,Commando Droid,2026,158,6,https://cdn.rebrickable.com/media/sets/l0002235-1.jpg
-L0002237-1,Galactic Marine,2027,158,8,https://cdn.rebrickable.com/media/sets/l0002237-1.jpg
+L0002237-1,Galactic Marine,2026,158,8,https://cdn.rebrickable.com/media/sets/l0002237-1.jpg
 L0002238-1,327th Star Corps Clone Trooper,2026,158,1,https://cdn.rebrickable.com/media/sets/l0002238-1.jpg
-L0002245-1,Jango Fett,2026,158,0,https://cdn.rebrickable.com/media/sets/l0002245-1.jpg
-L0002245-2,Jango Fett [Helmet Tin],2026,158,0,https://cdn.rebrickable.com/media/sets/l0002245-2.jpg
+L0002245-1,Jango Fett,2026,158,8,https://cdn.rebrickable.com/media/sets/l0002245-1.jpg
+L0002245-2,Jango Fett [Helmet Tin],2026,158,8,https://cdn.rebrickable.com/media/sets/l0002245-2.jpg
 L0002246-1,Jungle Ranger and Stray,2026,577,19,https://cdn.rebrickable.com/media/sets/l0002246-1.jpg
 L0002247-1,Realm Raider with Creeper and TNT Launcher,2026,577,21,https://cdn.rebrickable.com/media/sets/l0002247-1.jpg
 L0002248-1,Hero in Enchanted Armour + Blaze,2026,577,23,https://cdn.rebrickable.com/media/sets/l0002248-1.jpg
@@ -26791,6 +26858,7 @@ REDTEMPLE-1,Mini Temple,2017,435,35,https://cdn.rebrickable.com/media/sets/redte
 RHINO-1,South African Rhino,2022,598,0,https://cdn.rebrickable.com/media/sets/rhino-1.jpg
 ROBORIDER-1,RoboRider Database Set,1999,746,128,https://cdn.rebrickable.com/media/sets/roborider-1.jpg
 ROBORIDER-2,RoboRider Database Set - Golden Wheels,1999,746,16,https://cdn.rebrickable.com/media/sets/roborider-2.jpg
+ROBORIDER-3,RoboRiders Mug,1999,733,0,https://cdn.rebrickable.com/media/sets/roborider-3.jpg
 ROBOT-1,Robot,2022,301,22,https://cdn.rebrickable.com/media/sets/robot-1.jpg
 ROCKBAND-1,Rock Band Bus,2009,52,258,https://cdn.rebrickable.com/media/sets/rockband-1.jpg
 ROOSTER-1,Easy Build Building Happening Rooster,2017,779,0,https://cdn.rebrickable.com/media/sets/rooster-1.jpg
