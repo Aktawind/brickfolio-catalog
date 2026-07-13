@@ -348,7 +348,7 @@ set_num,name,year,theme_id,num_parts,img_url
 10156-1,LEGO Truck,2004,50,105,https://cdn.rebrickable.com/media/sets/10156-1.jpg
 10157-1,High Speed Train Locomotive,2004,105,143,https://cdn.rebrickable.com/media/sets/10157-1.jpg
 10158-1,High Speed Train Car,2004,105,161,https://cdn.rebrickable.com/media/sets/10158-1.jpg
-10159-1,City Airport,2004,53,914,https://cdn.rebrickable.com/media/sets/10159-1.jpg
+10159-1,City Airport,2004,50,914,https://cdn.rebrickable.com/media/sets/10159-1.jpg
 10159-2,City Airport (Full Size Image Box),2004,50,914,https://cdn.rebrickable.com/media/sets/10159-2.jpg
 10160-1,Black Ridge Roof Tiles,2004,254,48,https://cdn.rebrickable.com/media/sets/10160-1.jpg
 1016-1,Letter Bricks for Wall Board,1985,516,150,https://cdn.rebrickable.com/media/sets/1016-1.jpg
@@ -1337,6 +1337,9 @@ set_num,name,year,theme_id,num_parts,img_url
 11378-1,Douglas DC-3 PAN AM Airliner,2026,721,1903,https://cdn.rebrickable.com/media/sets/11378-1.jpg
 11380-1,Road Bike,2026,721,1015,https://cdn.rebrickable.com/media/sets/11380-1.jpg
 1138-1,Replacement Rubber Wheel Treads for Trains,1981,456,8,https://cdn.rebrickable.com/media/sets/1138-1.jpg
+11381-1,Jaguar E-type,2026,721,0,https://cdn.rebrickable.com/media/sets/11381-1.jpg
+11382-1,Hubble Space Telescope,2026,721,0,https://cdn.rebrickable.com/media/sets/11382-1.jpg
+11383-1,Mayor Manor,2026,721,0,https://cdn.rebrickable.com/media/sets/11383-1.jpg
 11384-1,Golden Retriever Puppy,2026,721,2102,https://cdn.rebrickable.com/media/sets/11384-1.jpg
 11389-1,Project Hail Mary,2026,721,830,https://cdn.rebrickable.com/media/sets/11389-1.jpg
 1139-1,Motor-Mount Plate with Magnetic Couplers,1981,456,5,https://cdn.rebrickable.com/media/sets/1139-1.jpg
@@ -6366,7 +6369,7 @@ set_num,name,year,theme_id,num_parts,img_url
 4000045-1,Nyíregyháza 2025 Factory,2025,599,531,https://cdn.rebrickable.com/media/sets/4000045-1.jpg
 4000046-1,LEGO Inside Tour Anniversary Collection,2025,599,1912,https://cdn.rebrickable.com/media/sets/4000046-1.jpg
 4000048-1,Bugatti Type 35,2026,599,5,https://cdn.rebrickable.com/media/sets/4000048-1.jpg
-4000049-1,Vintage LEGO Logo,2026,599,0,https://cdn.rebrickable.com/media/sets/4000049-1.jpg
+4000049-1,Vintage LEGO Logo,2026,599,1614,https://cdn.rebrickable.com/media/sets/4000049-1.jpg
 40000803-1,Storage Brick 2 x 3 (All Colors),2023,740,0,https://cdn.rebrickable.com/media/sets/40000803-1.jpg
 40001-1,Santa Claus,2009,227,42,https://cdn.rebrickable.com/media/sets/40001-1.jpg
 40002-1,Christmas Tree,2009,227,61,https://cdn.rebrickable.com/media/sets/40002-1.jpg
@@ -7341,7 +7344,7 @@ set_num,name,year,theme_id,num_parts,img_url
 40884-1,Drift & Raven Figures,2025,610,280,https://cdn.rebrickable.com/media/sets/40884-1.jpg
 40885-1,Duck Family,2026,22,262,https://cdn.rebrickable.com/media/sets/40885-1.jpg
 40886-1,Penguins in Love,2026,232,278,https://cdn.rebrickable.com/media/sets/40886-1.jpg
-40887-1,SMART Play: Ditto as Squirtle: Movie Night,2026,776,0,https://cdn.rebrickable.com/media/sets/40887-1.jpg
+40887-1,Ditto as Squirtle: Movie Night,2026,776,0,https://cdn.rebrickable.com/media/sets/40887-1.jpg
 40890-1,Easter Decorations,2026,229,312,https://cdn.rebrickable.com/media/sets/40890-1.jpg
 4089-1,Orange Bucket XL (Explore),2002,505,90,https://cdn.rebrickable.com/media/sets/4089-1.jpg
 40891-1,Stranger Things: WSQK Radio Station,2026,721,234,https://cdn.rebrickable.com/media/sets/40891-1.jpg
@@ -15859,8 +15862,7 @@ set_num,name,year,theme_id,num_parts,img_url
 66289-1,Value Pack,2008,559,0,https://cdn.rebrickable.com/media/sets/66289-1.jpg
 66290-1,City Coast Guard Super Pack 4 in 1,2008,55,0,https://cdn.rebrickable.com/media/sets/66290-1.jpg
 6629-1,Ambulance,1981,67,39,https://cdn.rebrickable.com/media/sets/6629-1.jpg
-6629994-1,Airplane - Special Edition,2025,408,0,https://cdn.rebrickable.com/media/sets/6629994-1.jpg
-6629997-1,Airplane,2026,598,149,https://cdn.rebrickable.com/media/sets/6629997-1.jpg
+6629994-1,Airplane - Special Edition,2025,408,149,https://cdn.rebrickable.com/media/sets/6629994-1.jpg
 66300-1,Technic Kettenbagger-Co-pack,2008,1,0,https://cdn.rebrickable.com/media/sets/66300-1.jpg
 6630-1,Bucket Loader,1981,67,34,https://cdn.rebrickable.com/media/sets/6630-1.jpg
 66305-1,City Super Pack 3 in 1,2009,61,0,https://cdn.rebrickable.com/media/sets/66305-1.jpg
@@ -18398,22 +18400,22 @@ set_num,name,year,theme_id,num_parts,img_url
 72152-1,Pikachu and Poké Ball,2026,776,2050,https://cdn.rebrickable.com/media/sets/72152-1.jpg
 72153-1,"Venusaur, Charizard and Blastoise",2026,776,6838,https://cdn.rebrickable.com/media/sets/72153-1.jpg
 72154-1,Iconic Trainer Moments Poké Ball,2026,776,0,https://cdn.rebrickable.com/media/sets/72154-1.jpg
-72155-1,SMART Play: Berry Bash with Bulbasaur and Bidoof,2026,776,0,https://cdn.rebrickable.com/media/sets/72155-1.jpg
-72156-1,SMART Play: Trainer's Buggy Adventure with Squirtle,2026,776,0,https://cdn.rebrickable.com/media/sets/72156-1.jpg
-72157-1,SMART Play: Charmander and Geodude's Cavern Clash,2026,776,0,https://cdn.rebrickable.com/media/sets/72157-1.jpg
-72158-1,"SMART Play: Sprigatito, Fuecoco and Quaxly Battle",2026,776,0,https://cdn.rebrickable.com/media/sets/72158-1.jpg
-72159-1,SMART Play: Jigglypuff Concert,2026,776,0,https://cdn.rebrickable.com/media/sets/72159-1.jpg
+72155-1,Berry Bash with Bulbasaur and Bidoof,2026,776,0,https://cdn.rebrickable.com/media/sets/72155-1.jpg
+72156-1,Trainer's Buggy Adventure with Squirtle,2026,776,0,https://cdn.rebrickable.com/media/sets/72156-1.jpg
+72157-1,Charmander and Geodude's Cavern Clash,2026,776,0,https://cdn.rebrickable.com/media/sets/72157-1.jpg
+72158-1,"Sprigatito, Fuecoco and Quaxly Battle",2026,776,0,https://cdn.rebrickable.com/media/sets/72158-1.jpg
+72159-1,Jigglypuff Concert,2026,776,0,https://cdn.rebrickable.com/media/sets/72159-1.jpg
 72160-1,Arcanine,2026,776,0,https://cdn.rebrickable.com/media/sets/72160-1.jpg
 7216-1,Gold Good Guy - looking Right (Duracell 8 pack AA) {Turaga Lhikan},2006,324,22,https://cdn.rebrickable.com/media/sets/7216-1.jpg
-72161-1,SMART Play: Drone Search for Mythical Mew,2026,776,0,https://cdn.rebrickable.com/media/sets/72161-1.jpg
+72161-1,Drone Search for Mythical Mew,2026,776,0,https://cdn.rebrickable.com/media/sets/72161-1.jpg
 7216-2,Gold Good Guy - looking Left (Duracell 12 pack AA) {Turaga Lhikan},2006,324,22,https://cdn.rebrickable.com/media/sets/7216-2.jpg
-72162-1,SMART Play: Eevee and Lapras's Treasure Hunt,2026,776,0,https://cdn.rebrickable.com/media/sets/72162-1.jpg
+72162-1,Eevee and Lapras's Treasure Hunt,2026,776,0,https://cdn.rebrickable.com/media/sets/72162-1.jpg
 7216-3,Gold Good Guy - looking Right (Duracell 12 pack AA) {Turaga Lhikan},2006,324,22,https://cdn.rebrickable.com/media/sets/7216-3.jpg
-72163-1,SMART Play: Mewtwo's Lab Break,2026,776,0,https://cdn.rebrickable.com/media/sets/72163-1.jpg
-72164-1,SMART Play: Training House with Pikachu,2026,776,0,https://cdn.rebrickable.com/media/sets/72164-1.jpg
-72165-1,SMART Play: Umbreon vs. Garchomp Championship Battle,2026,776,0,https://cdn.rebrickable.com/media/sets/72165-1.jpg
-72166-1,SMART Play: Cubone and Gengar's Spooky Showdown,2026,776,0,https://cdn.rebrickable.com/media/sets/72166-1.jpg
-72167-1,SMART Play: Charizard vs. Jolteon Ultimate Battle,2026,776,0,https://cdn.rebrickable.com/media/sets/72167-1.jpg
+72163-1,Mewtwo's Lab Break,2026,776,0,https://cdn.rebrickable.com/media/sets/72163-1.jpg
+72164-1,Training House with Pikachu,2026,776,0,https://cdn.rebrickable.com/media/sets/72164-1.jpg
+72165-1,Umbreon vs. Garchomp Championship Battle,2026,776,0,https://cdn.rebrickable.com/media/sets/72165-1.jpg
+72166-1,Cubone and Gengar's Spooky Showdown,2026,776,0,https://cdn.rebrickable.com/media/sets/72166-1.jpg
+72167-1,Charizard vs. Jolteon Ultimate Battle,2026,776,0,https://cdn.rebrickable.com/media/sets/72167-1.jpg
 72168-1,Rayquaza,2026,776,0,https://cdn.rebrickable.com/media/sets/72168-1.jpg
 7217-1,Braca (Duracell 12 pack AA battery promotion),2006,324,16,https://cdn.rebrickable.com/media/sets/7217-1.jpg
 7217-2,Braca (Duracell 8 pack AA battery promotion),2006,324,16,https://cdn.rebrickable.com/media/sets/7217-2.jpg
@@ -22590,6 +22592,7 @@ set_num,name,year,theme_id,num_parts,img_url
 8785506-1,MUJI Colour Paper Pad and Perforation Grid,2010,301,0,https://cdn.rebrickable.com/media/sets/8785506-1.jpg
 8786-1,Vladek (USA version with 3 Cards),2004,198,51,https://cdn.rebrickable.com/media/sets/8786-1.jpg
 8786-2,"Vladek (USA version with 6 Cards, Target Promo)",2004,198,54,https://cdn.rebrickable.com/media/sets/8786-2.jpg
+8787957019-1,LEGOLAND Denmark Park Guide with Map,1986,758,0,https://cdn.rebrickable.com/media/sets/8787957019-1.jpg
 8790-1,"King Mathias (Series 1) Limited Edition with Map and Cape, European",2004,198,45,https://cdn.rebrickable.com/media/sets/8790-1.jpg
 879-1,Supplementary Set,1979,4,87,https://cdn.rebrickable.com/media/sets/879-1.jpg
 8791-1,Sir Danju,2005,198,43,https://cdn.rebrickable.com/media/sets/8791-1.jpg
@@ -22821,7 +22824,7 @@ set_num,name,year,theme_id,num_parts,img_url
 8864-1,Desert of Destruction,2010,123,966,https://cdn.rebrickable.com/media/sets/8864-1.jpg
 8865-1,Test Car,1988,1,898,https://cdn.rebrickable.com/media/sets/8865-1.jpg
 8866-1,Train Motor (RC),2009,438,7,https://cdn.rebrickable.com/media/sets/8866-1.jpg
-8867-1,Flexible Train Track,2009,241,64,https://cdn.rebrickable.com/media/sets/8867-1.jpg
+8867-1,Flexible Train Track,2009,66,64,https://cdn.rebrickable.com/media/sets/8867-1.jpg
 8868-1,Airtech Claw Rig,1992,1,954,https://cdn.rebrickable.com/media/sets/8868-1.jpg
 8869-1,Power Functions Control Switch,2009,438,1,https://cdn.rebrickable.com/media/sets/8869-1.jpg
 8870-1,Power Functions Light,2009,438,1,https://cdn.rebrickable.com/media/sets/8870-1.jpg
@@ -25574,7 +25577,7 @@ CONCORD-1,"LEGO Store Grand Opening Exclusive Set, Concord Mills, Concord, NC",2
 CONTROLLER-1,Controller,2022,301,29,https://cdn.rebrickable.com/media/sets/controller-1.jpg
 COOLCAR-1,Cool Car,2019,408,50,https://cdn.rebrickable.com/media/sets/coolcar-1.jpg
 CORONATION-1,Coronation Crown,2023,408,47,https://cdn.rebrickable.com/media/sets/coronation-1.jpg
-COSTAMESA-1,"LEGO Store Grand Opening Exclusive Set, South Coast Plaza, Costa Mesa, CA",2011,408,12,https://cdn.rebrickable.com/media/sets/costamesa-1.jpg
+COSTAMESA-1,"LEGO Store Grand Opening Exclusive Set, South Coast Plaza, Costa Mesa, CA",2011,408,15,https://cdn.rebrickable.com/media/sets/costamesa-1.jpg
 COWS1-1,Singapore: Food Cart,2017,619,114,https://cdn.rebrickable.com/media/sets/cows1-1.jpg
 COWS2-1,"Singapore: Kaya Toast, Eggs & Kopi Set",2017,619,92,https://cdn.rebrickable.com/media/sets/cows2-1.jpg
 COWS3-1,Singapore: Chope Seat,2017,619,93,https://cdn.rebrickable.com/media/sets/cows3-1.jpg
@@ -25597,14 +25600,14 @@ DATABASE-2001,2001 - Unused Parts Database Set,2001,746,59,https://cdn.rebrickab
 DATABASE-2002,2002 - Unused Parts Database Set,2002,746,29,https://cdn.rebrickable.com/media/sets/database-2002.jpg
 DATABASE-2003,2003 - Unused Parts Database Set,2003,746,47,https://cdn.rebrickable.com/media/sets/database-2003.jpg
 DATABASE-2004,2004 - Unused Parts Database Set,2004,746,84,https://cdn.rebrickable.com/media/sets/database-2004.jpg
-DATABASE-2005,2005 - Unused Parts Database Set,2005,746,79,https://cdn.rebrickable.com/media/sets/database-2005.jpg
+DATABASE-2005,2005 - Unused Parts Database Set,2005,746,82,https://cdn.rebrickable.com/media/sets/database-2005.jpg
 DATABASE-2006,2006 - Unused Parts Database Set,2006,746,18,https://cdn.rebrickable.com/media/sets/database-2006.jpg
 DATABASE-2007,2007 - Unused Parts Database Set,2007,746,22,https://cdn.rebrickable.com/media/sets/database-2007.jpg
 DATABASE-2008,2008 - Unused Parts Database Set,2008,746,35,https://cdn.rebrickable.com/media/sets/database-2008.jpg
 DATABASE-2009,2009 - Unused Parts Database Set,2009,746,33,https://cdn.rebrickable.com/media/sets/database-2009.jpg
 DATABASE-2010,2010 - Unused Parts Database Set,2010,746,42,https://cdn.rebrickable.com/media/sets/database-2010.jpg
 DATABASE-2011,2011 - Unused Parts Database Set,2011,746,35,https://cdn.rebrickable.com/media/sets/database-2011.jpg
-DATABASE-2012,2012 - Unused Parts Database Set,2012,746,68,https://cdn.rebrickable.com/media/sets/database-2012.jpg
+DATABASE-2012,2012 - Unused Parts Database Set,2012,746,67,https://cdn.rebrickable.com/media/sets/database-2012.jpg
 DATABASE-2013,2013 - Unused Parts Database Set,2013,746,34,https://cdn.rebrickable.com/media/sets/database-2013.jpg
 DATABASE-2014,2014 - Unused Parts Database Set,2014,746,30,https://cdn.rebrickable.com/media/sets/database-2014.jpg
 DATABASE-2015,2015 - Unused Parts Database Set,2015,746,56,https://cdn.rebrickable.com/media/sets/database-2015.jpg
@@ -25617,8 +25620,8 @@ DATABASE-2021,2021 - Unused Parts Database Set,2021,746,39,https://cdn.rebrickab
 DATABASE-2022,2022 - Unused Parts Database Set,2022,746,72,https://cdn.rebrickable.com/media/sets/database-2022.jpg
 DATABASE-2023,2023 - Unused Parts Database Set,2023,746,50,https://cdn.rebrickable.com/media/sets/database-2023.jpg
 DATABASE-2024,2024 - Unused Parts Database Set,2024,746,37,https://cdn.rebrickable.com/media/sets/database-2024.jpg
-DATABASE-2025,2025 - Unused Parts Database Set,2025,746,26,https://cdn.rebrickable.com/media/sets/database-2025.jpg
-DATABASE-2026,2026 - Unused Parts Database Set,2026,746,12,https://cdn.rebrickable.com/media/sets/database-2026.jpg
+DATABASE-2025,2025 - Unused Parts Database Set,2025,746,27,https://cdn.rebrickable.com/media/sets/database-2025.jpg
+DATABASE-2026,2026 - Unused Parts Database Set,2026,746,13,https://cdn.rebrickable.com/media/sets/database-2026.jpg
 DATABASE-HO-1,Database Set for 1:87 Mercedes Sport,1963,746,11,https://cdn.rebrickable.com/media/sets/database-ho-1.jpg
 DATABASE-HO-2,Database Set for 1:87 VW Vans,1958,746,26,https://cdn.rebrickable.com/media/sets/database-ho-2.jpg
 DATABASE-HO-3,Database Set for 1:87 VW Beetles (Short),1958,746,30,https://cdn.rebrickable.com/media/sets/database-ho-3.jpg
@@ -25796,6 +25799,7 @@ FABULANDART-1,LEGO Fabuland Tribute Art Print,2025,736,0,https://cdn.rebrickable
 FACEMASK-1,LEGOLAND Face Cover (Blue),2021,501,0,https://cdn.rebrickable.com/media/sets/facemask-1.jpg
 FACEMASK-2,LEGOLAND Face Cover (LEGOLAND Skyline),2021,501,0,https://cdn.rebrickable.com/media/sets/facemask-2.jpg
 FACEMASK-3,LEGOLAND Face Cover (Stars),2021,501,0,https://cdn.rebrickable.com/media/sets/facemask-3.jpg
+FACTSFIGS-1,Facts & Figures,1986,758,0,https://cdn.rebrickable.com/media/sets/factsfigs-1.jpg
 FANDOME2020-1,Supergirl,2020,695,0,https://cdn.rebrickable.com/media/sets/fandome2020-1.jpg
 FANEXPO001-1,The Ghost Starship,2014,158,134,https://cdn.rebrickable.com/media/sets/fanexpo001-1.jpg
 FANEXPO2015-1,Tatooine Mini-Build (FAN EXPO Version),2015,158,179,https://cdn.rebrickable.com/media/sets/fanexpo2015-1.jpg
@@ -26274,6 +26278,7 @@ LE437-1,9 Piece Stationery Set,2014,739,2,https://cdn.rebrickable.com/media/sets
 LE439-1,Essentials Stationery Set,2016,739,0,https://cdn.rebrickable.com/media/sets/le439-1.jpg
 LE6705-1,Emmet Retractable Pen,2014,739,0,https://cdn.rebrickable.com/media/sets/le6705-1.jpg
 LE704-1,Friends Stationery Set,2014,739,2,https://cdn.rebrickable.com/media/sets/le704-1.jpg
+LEAFLET-1,Imagination and System (Informational Leaflet),1986,497,0,https://cdn.rebrickable.com/media/sets/leaflet-1.jpg
 LEEDS-1,"LEGO Store Grand Opening Exclusive Set, Leeds, UK",2013,408,16,https://cdn.rebrickable.com/media/sets/leeds-1.jpg
 LEG1219-1,Ninjago Kai Shaped Pillow,2024,733,0,https://cdn.rebrickable.com/media/sets/leg1219-1.jpg
 LEG1220-1,Ninjago Lloyd Shaped Pillow,2024,733,0,https://cdn.rebrickable.com/media/sets/leg1220-1.jpg
@@ -27304,6 +27309,7 @@ WIZARD-PORTRAITS-1,Wizard Portraits Tiles,2024,746,14,https://cdn.rebrickable.co
 WLB6701-1,Ninjago: Destiny's Bounty Adventure Box,2021,761,47,https://cdn.rebrickable.com/media/sets/wlb6701-1.jpg
 WOODENELEPHANT-1,Original Wooden Elephant Pull-Along Toy and Print,2021,683,0,https://cdn.rebrickable.com/media/sets/woodenelephant-1.jpg
 WORLDBUILDER-1,City: World Builder,2026,757,0,https://cdn.rebrickable.com/media/sets/worldbuilder-1.jpg
+WORLDSHOW-1,The World of LEGO Exhibition,1981,497,0,https://cdn.rebrickable.com/media/sets/worldshow-1.jpg
 WREATH-1,Wreath,2025,227,29,https://cdn.rebrickable.com/media/sets/wreath-1.jpg
 WWGP-1,Wild West Limited Edition Gift Pack,1996,475,0,https://cdn.rebrickable.com/media/sets/wwgp-1.jpg
 XBOXGAME-1,Batman the Videogame - Xbox 360,2008,742,0,https://cdn.rebrickable.com/media/sets/xboxgame-1.jpg
