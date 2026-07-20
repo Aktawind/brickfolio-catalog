@@ -1971,7 +1971,7 @@ set_num,name,year,theme_id,num_parts,img_url
 1524-1,Basic Set Trial Size,1986,467,38,https://cdn.rebrickable.com/media/sets/1524-1.jpg
 1524-2,Dino Island Pen,2000,739,14,https://cdn.rebrickable.com/media/sets/1524-2.jpg
 1525-1,Container Lorry,1986,67,154,https://cdn.rebrickable.com/media/sets/1525-1.jpg
-1525-2,World Pen,2000,739,0,https://cdn.rebrickable.com/media/sets/1525-2.jpg
+1525-2,World Pen,2000,739,14,https://cdn.rebrickable.com/media/sets/1525-2.jpg
 1526-1,Space Radar Buggy,1986,130,105,https://cdn.rebrickable.com/media/sets/1526-1.jpg
 1528-1,Dragster,1986,67,29,https://cdn.rebrickable.com/media/sets/1528-1.jpg
 15281-1,Legends of Chima Fire and Ice Backpack with Gym Bag,2015,777,0,https://cdn.rebrickable.com/media/sets/15281-1.jpg
@@ -5380,6 +5380,7 @@ set_num,name,year,theme_id,num_parts,img_url
 312-2,Bracelet and Pendant,1979,668,59,https://cdn.rebrickable.com/media/sets/312-2.jpg
 31220-1,Claude Monet – Bridge over a Pond of Water Lilies,2026,709,3179,https://cdn.rebrickable.com/media/sets/31220-1.jpg
 3122-1,1-2-3 Marie,2001,668,27,https://cdn.rebrickable.com/media/sets/3122-1.jpg
+31221-1,Gustav Klimt – The Kiss,2026,709,0,https://cdn.rebrickable.com/media/sets/31221-1.jpg
 312-3,Tanker,1973,363,112,https://cdn.rebrickable.com/media/sets/312-3.jpg
 3123-1,Emma's Chill-Out Kitchen,2001,668,66,https://cdn.rebrickable.com/media/sets/3123-1.jpg
 312-4,Boats,1961,365,107,https://cdn.rebrickable.com/media/sets/312-4.jpg
@@ -7790,7 +7791,7 @@ set_num,name,year,theme_id,num_parts,img_url
 41434-1,Andrea's Jungle Play Cube,2020,494,47,https://cdn.rebrickable.com/media/sets/41434-1.jpg
 41435-1,Stephanie's Jungle Play Cube,2020,494,40,https://cdn.rebrickable.com/media/sets/41435-1.jpg
 41436-1,Olivia's Jungle Play Cube,2020,494,51,https://cdn.rebrickable.com/media/sets/41436-1.jpg
-4143643905991-1,Minecraft Trading Cards Series 1 - Eco-Multipack (Polish Version),2024,501,1,https://cdn.rebrickable.com/media/sets/4143643905991-1.jpg
+4143643905991-1,Minecraft Trading Cards Series 1 - Eco-Multipack (Polish Version),2024,501,0,https://cdn.rebrickable.com/media/sets/4143643905991-1.jpg
 4143644509990-1,Minecraft Trading Cards Series 1 - Starterpack (Polish Version),2024,501,3,https://cdn.rebrickable.com/media/sets/4143644509990-1.jpg
 41437-1,Mia's Jungle Play Cube,2020,494,43,https://cdn.rebrickable.com/media/sets/41437-1.jpg
 414377210599601-1,Minecraft Trading Cards Series 2: Boom-Bastic - Eco-Multipack (German Version),2025,501,1,https://cdn.rebrickable.com/media/sets/414377210599601-1.jpg
@@ -11962,7 +11963,7 @@ set_num,name,year,theme_id,num_parts,img_url
 5010064-1,Nike Air Max 95 x LEGO Big Kids' Shoes,2026,501,0,https://cdn.rebrickable.com/media/sets/5010064-1.jpg
 5010067-1,Ninjago: Dragons Rising: World Builder: Create a World of Play,2025,757,0,https://cdn.rebrickable.com/media/sets/5010067-1.jpg
 5010068-1,Dreamzzz: World Builder: Create a World of Play,2025,757,0,https://cdn.rebrickable.com/media/sets/5010068-1.jpg
-5010069-1,LEGO Minifigure: A Visual History: Updated and Expanded,2025,758,5,https://cdn.rebrickable.com/media/sets/5010069-1.jpg
+5010069-1,LEGO Minifigure: A Visual History: Updated and Expanded,2025,758,6,https://cdn.rebrickable.com/media/sets/5010069-1.jpg
 5010070-1,Minecraft: Alex vs. Creeper,2025,760,0,https://cdn.rebrickable.com/media/sets/5010070-1.jpg
 5010071-1,Minecraft: Skeleton Quest: Seek-and-Find: Sticker Activity Book,2025,761,8,https://cdn.rebrickable.com/media/sets/5010071-1.jpg
 5010075-1,Dolphin,2026,598,153,https://cdn.rebrickable.com/media/sets/5010075-1.jpg
@@ -12043,6 +12044,7 @@ set_num,name,year,theme_id,num_parts,img_url
 5010359-1,ReCreate Activity Cards: Tech,2025,741,25,https://cdn.rebrickable.com/media/sets/5010359-1.jpg
 5010360-1,ReCreate Activity Cards: Pets,2025,741,0,https://cdn.rebrickable.com/media/sets/5010360-1.jpg
 5010361-1,Ninjago: Dragons Rising: ReCreate Activity Cards: Ninja Adventures,2025,741,0,https://cdn.rebrickable.com/media/sets/5010361-1.jpg
+5010388-1,Play Box,2026,301,0,https://cdn.rebrickable.com/media/sets/5010388-1.jpg
 5010392-1,Brick Art Line Vase,2026,733,0,https://cdn.rebrickable.com/media/sets/5010392-1.jpg
 5010393-1,Wild Flower Vase,2026,733,0,https://cdn.rebrickable.com/media/sets/5010393-1.jpg
 5010423-1,Herschel Classic XL Backpack - Falling Florals,2025,777,0,https://cdn.rebrickable.com/media/sets/5010423-1.jpg
@@ -15506,6 +15508,7 @@ set_num,name,year,theme_id,num_parts,img_url
 6566835-1,Snow Groomer,2024,598,28,https://cdn.rebrickable.com/media/sets/6566835-1.jpg
 6567-1,Speed Splash,1998,87,29,https://cdn.rebrickable.com/media/sets/6567-1.jpg
 6568-1,Drag Race Rally,1998,87,297,https://cdn.rebrickable.com/media/sets/6568-1.jpg
+6568275-1,2025 Store Manager's Summit: New Orleans Alligator Float,2025,301,0,https://cdn.rebrickable.com/media/sets/6568275-1.jpg
 6568276-1,Spring in Bloom,2025,598,122,https://cdn.rebrickable.com/media/sets/6568276-1.jpg
 6569-1,Polar Scout / Polar Explorer Co-Pack,2000,51,0,https://cdn.rebrickable.com/media/sets/6569-1.jpg
 6569140-1,People's Square Grand Opening,2025,408,146,https://cdn.rebrickable.com/media/sets/6569140-1.jpg
@@ -23698,15 +23701,18 @@ set_num,name,year,theme_id,num_parts,img_url
 951319-1,"Smith with Smithing Table, Netherite Armor and Armor Stand",2026,577,19,https://cdn.rebrickable.com/media/sets/951319-1.jpg
 951321-1,"Space Sentinel, Enderman and Endermite",2026,577,9,https://cdn.rebrickable.com/media/sets/951321-1.jpg
 951325-1,Go-Cart,2026,1,67,https://cdn.rebrickable.com/media/sets/951325-1.jpg
+951340-1,Construction Worker with Roller,2026,56,34,https://cdn.rebrickable.com/media/sets/951340-1.jpg
 951345-1,Kitten and Vet's Office,2026,494,24,https://cdn.rebrickable.com/media/sets/951345-1.jpg
 951351-1,Guard and Raptor,2026,602,21,https://cdn.rebrickable.com/media/sets/951351-1.jpg
 951371-1,Magma Cube,2026,577,39,https://cdn.rebrickable.com/media/sets/951371-1.jpg
 951374-1,Jay and Mutation Monster,2026,435,24,https://cdn.rebrickable.com/media/sets/951374-1.jpg
 951384-1,Nya,2026,435,1,https://cdn.rebrickable.com/media/sets/951384-1.jpg
 951385-1,Kai - Draconus Form,2026,435,11,https://cdn.rebrickable.com/media/sets/951385-1.jpg
+951386-1,Zane,2026,435,12,https://cdn.rebrickable.com/media/sets/951386-1.jpg
 951394-1,Spider-Man with Web,2026,706,7,https://cdn.rebrickable.com/media/sets/951394-1.jpg
 951399-1,Anti-Venom,2026,706,10,https://cdn.rebrickable.com/media/sets/951399-1.jpg
 951405-1,Republic Gunship,2026,158,59,https://cdn.rebrickable.com/media/sets/951405-1.jpg
+951408-1,Death Trooper,2026,158,5,https://cdn.rebrickable.com/media/sets/951408-1.jpg
 951440-1,Police Buggy,2026,61,37,https://cdn.rebrickable.com/media/sets/951440-1.jpg
 951441-1,Construction Worker with Wheel Loader,2026,56,39,https://cdn.rebrickable.com/media/sets/951441-1.jpg
 951442-1,Cockatoo,2026,672,69,https://cdn.rebrickable.com/media/sets/951442-1.jpg
@@ -24918,7 +24924,7 @@ set_num,name,year,theme_id,num_parts,img_url
 9781837252145-1,Minecraft: Rare Mob Expedition: Search & Find Sticker Activity,2026,761,10,https://cdn.rebrickable.com/media/sets/9781837252145-1.jpg
 9781837252152-1,Ninjago: Dragons Rising: Cole's Mech Mission,2026,761,0,https://cdn.rebrickable.com/media/sets/9781837252152-1.jpg
 9781837252169-1,Star Wars: The Dark Lord,2026,761,0,https://cdn.rebrickable.com/media/sets/9781837252169-1.jpg
-9781837252176-1,Harry Potter: Magical Powers,2026,761,17,https://cdn.rebrickable.com/media/sets/9781837252176-1.jpg
+9781837252176-1,Harry Potter: Magical Lessons,2026,761,17,https://cdn.rebrickable.com/media/sets/9781837252176-1.jpg
 9781837252251-1,Ninjago: How to Draw,2026,761,0,https://cdn.rebrickable.com/media/sets/9781837252251-1.jpg
 9781837252268-1,DC Comics Batman: Silly Stickers,2026,760,0,https://cdn.rebrickable.com/media/sets/9781837252268-1.jpg
 9781837252336-1,Official Annual 2027,2026,761,0,https://cdn.rebrickable.com/media/sets/9781837252336-1.jpg
@@ -25381,7 +25387,6 @@ b56de-01,System im Spiel,1956,758,0,https://cdn.rebrickable.com/media/sets/b56de
 b63de-01,Hobby und Modellbau,1963,757,0,https://cdn.rebrickable.com/media/sets/b63de-01.jpg
 b66de-01,LEGO Motor Eisenbahn,1966,757,0,https://cdn.rebrickable.com/media/sets/b66de-01.jpg
 BACKPACK-1,Cars Backpack,2020,777,0,https://cdn.rebrickable.com/media/sets/backpack-1.jpg
-BACKPACK-10,City Foiled Again Backpack,2020,777,0,https://cdn.rebrickable.com/media/sets/backpack-10.jpg
 BACKPACK-13,Jurassic World Backpack,2020,777,0,https://cdn.rebrickable.com/media/sets/backpack-13.jpg
 BACKPACK-14,City Deconstruction Boom Heritage Classic Backpack,2020,777,0,https://cdn.rebrickable.com/media/sets/backpack-14.jpg
 BACKPACK-15,City Nights Heritage Classic Backpack,2020,777,0,https://cdn.rebrickable.com/media/sets/backpack-15.jpg
@@ -25389,7 +25394,6 @@ BACKPACK-16,Minifigures Backpack,2020,777,0,https://cdn.rebrickable.com/media/se
 BACKPACK-19,City Police Backpack,2013,777,0,https://cdn.rebrickable.com/media/sets/backpack-19.jpg
 BACKPACK-2,Minifigure Motion Backpack,2021,777,0,https://cdn.rebrickable.com/media/sets/backpack-2.jpg
 BACKPACK-21,Yellow Brick Backpack,2018,777,0,https://cdn.rebrickable.com/media/sets/backpack-21.jpg
-BACKPACK-23,Ninjago Backpack Lloyd,2021,777,1,https://cdn.rebrickable.com/media/sets/backpack-23.jpg
 BACKPACK-24,City Foldable Backpack,2024,777,0,https://cdn.rebrickable.com/media/sets/backpack-24.jpg
 BACKPACK-25,Duplo Bear Backpack,2024,777,0,https://cdn.rebrickable.com/media/sets/backpack-25.jpg
 BACKPACK-29,City Heritage Classic Backpack Soccer Goal,2024,777,0,https://cdn.rebrickable.com/media/sets/backpack-29.jpg
@@ -25399,7 +25403,6 @@ BACKPACK-4,2 x 2 Building Brick Backpack (Blue),2021,777,0,https://cdn.rebrickab
 BACKPACK-5,Minifigure Emoji Backpack (Blue),2021,777,0,https://cdn.rebrickable.com/media/sets/backpack-5.jpg
 BACKPACK-6,2 x 2 Building Brick Backpack (Pink),2021,777,0,https://cdn.rebrickable.com/media/sets/backpack-6.jpg
 BACKPACK-7,LEGOLAND Purple Brick Maze Backpack,2021,777,0,https://cdn.rebrickable.com/media/sets/backpack-7.jpg
-BACKPACK-8,City Fire Trio Backpack,2021,777,0,https://cdn.rebrickable.com/media/sets/backpack-8.jpg
 BADGE-1,LEGOLAND Windsor Clown Badge,2010,501,0,https://cdn.rebrickable.com/media/sets/badge-1.jpg
 BAG-5,City Police Easy Set,2020,777,0,https://cdn.rebrickable.com/media/sets/bag-5.jpg
 BAG6-1,Gray Brick Separator with Black Frame Pieces,2006,254,56,https://cdn.rebrickable.com/media/sets/bag6-1.jpg
@@ -25682,6 +25685,8 @@ DOTS-SERIES-6,DOTS Collectible Tiles Series 6,2022,746,16,https://cdn.rebrickabl
 DOTS-SERIES-7,DOTS Collectible Tiles Series 7,2022,746,16,https://cdn.rebrickable.com/media/sets/dots-series-7.jpg
 DOTS-SERIES-8,DOTS Collectible Tiles Series 8,2023,746,16,https://cdn.rebrickable.com/media/sets/dots-series-8.jpg
 DP0960103P-1,"Mystery Patch Backpack & Pouch, Series 3",2023,777,0,https://cdn.rebrickable.com/media/sets/dp0960103p-1.jpg
+DP0961300F-1,City Fire Trio Backpack,2021,777,0,https://cdn.rebrickable.com/media/sets/dp0961300f-1.jpg
+DP0962700c-1,City Foiled Again Backpack,2020,777,0,https://cdn.rebrickable.com/media/sets/dp0962700c-1.jpg
 DP0964200D-1,Duplo Dog Backpack,2023,777,0,https://cdn.rebrickable.com/media/sets/dp0964200d-1.jpg
 DP0964750W-1,Duplo Whale Backpack,2023,777,0,https://cdn.rebrickable.com/media/sets/dp0964750w-1.jpg
 DRAGON-1,Dragon,2023,779,38,https://cdn.rebrickable.com/media/sets/dragon-1.jpg
