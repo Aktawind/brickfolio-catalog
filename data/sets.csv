@@ -1392,7 +1392,7 @@ set_num,name,year,theme_id,num_parts,img_url
 11384-1,Golden Retriever Puppy,2026,721,2102,https://cdn.rebrickable.com/media/sets/11384-1.jpg
 11385-1,Star Trek: U.S.S. Enterprise NCC-1701 Bridge,2026,721,1701,https://cdn.rebrickable.com/media/sets/11385-1.jpg
 11386-1,SpongeBob SquarePants: Bikini Bottom,2026,721,1794,https://cdn.rebrickable.com/media/sets/11386-1.jpg
-113890-1,New York City Magnet - Pattern,2026,734,0,https://cdn.rebrickable.com/media/sets/113890-1.jpg
+11387-1,Holiday House,2026,227,0,https://cdn.rebrickable.com/media/sets/11387-1.jpg
 11389-1,Project Hail Mary,2026,721,830,https://cdn.rebrickable.com/media/sets/11389-1.jpg
 1139-1,Motor-Mount Plate with Magnetic Couplers,1981,456,5,https://cdn.rebrickable.com/media/sets/1139-1.jpg
 1140-1,12V Light Bricks,1981,443,2,https://cdn.rebrickable.com/media/sets/1140-1.jpg
@@ -1442,6 +1442,7 @@ set_num,name,year,theme_id,num_parts,img_url
 115512-1,Chewbacca Collectable Coin,2026,501,0,https://cdn.rebrickable.com/media/sets/115512-1.jpg
 115513-1,Darth Vader Collectable Coin,2026,501,0,https://cdn.rebrickable.com/media/sets/115513-1.jpg
 115514-1,Luke Skywalker Collectable Coin,2026,501,0,https://cdn.rebrickable.com/media/sets/115514-1.jpg
+115763-1,Tokyo Passport Holder,2026,501,0,https://cdn.rebrickable.com/media/sets/115763-1.jpg
 115925-1,Madrid Magnet - Pattern,2026,734,0,https://cdn.rebrickable.com/media/sets/115925-1.jpg
 116001-1,Verden Rundt Trading Cards - Random Pack (Danish Version),2017,501,0,https://cdn.rebrickable.com/media/sets/116001-1.jpg
 1160-1,"TECHNIC Pneumatic Tubing, 40cm +100cm",1985,453,2,https://cdn.rebrickable.com/media/sets/1160-1.jpg
@@ -1672,7 +1673,6 @@ set_num,name,year,theme_id,num_parts,img_url
 1231-3,"Windows and Door with Glass, White",1956,371,10,https://cdn.rebrickable.com/media/sets/1231-3.jpg
 1232-1,Toggle Joints & Connectors,1982,453,46,https://cdn.rebrickable.com/media/sets/1232-1.jpg
 1233-1,Axle Assortment,1984,453,34,https://cdn.rebrickable.com/media/sets/1233-1.jpg
-1233-2,Light Masts,1958,371,4,https://cdn.rebrickable.com/media/sets/1233-2.jpg
 1234-1,Gear Wheel Assortment,1984,453,21,https://cdn.rebrickable.com/media/sets/1234-1.jpg
 1234-3,"Replacement Gearbox for Electric, Motor 4.5V/12V Type II 12 x 4 x 3 1/3",1983,443,1,https://cdn.rebrickable.com/media/sets/1234-3.jpg
 1235-1,Differential Gear Housing,1984,453,19,https://cdn.rebrickable.com/media/sets/1235-1.jpg
@@ -12274,11 +12274,17 @@ set_num,name,year,theme_id,num_parts,img_url
 5010522-1,Shanghai Bag Charm - Heart,2026,503,0,https://cdn.rebrickable.com/media/sets/5010522-1.jpg
 5010554-1,LEGO Ideas - Trophy White,2026,598,0,https://cdn.rebrickable.com/media/sets/5010554-1.jpg
 5010555-1,LEGO Ideas - Trophy Black,2026,598,0,https://cdn.rebrickable.com/media/sets/5010555-1.jpg
+5010558-1,Orlando Water Bottle - Royal Blue,2026,733,0,https://cdn.rebrickable.com/media/sets/5010558-1.jpg
 5010566-1,Copenhagen Water Bottle - Bright Red,2026,733,0,https://cdn.rebrickable.com/media/sets/5010566-1.jpg
 5010567-1,Copenhagen Water Bottle - Yellow-Orange,2026,733,0,https://cdn.rebrickable.com/media/sets/5010567-1.jpg
+5010581-1,New York City Pen - Yellow,2026,739,0,https://cdn.rebrickable.com/media/sets/5010581-1.jpg
+5010584-1,New York City Magnet - Pattern,2026,734,0,https://cdn.rebrickable.com/media/sets/5010584-1.jpg
+5010585-1,New York City Magnet - Hot Dog,2026,734,0,https://cdn.rebrickable.com/media/sets/5010585-1.jpg
 5010587-1,New York City Magnet - Red Apple,2026,734,0,https://cdn.rebrickable.com/media/sets/5010587-1.jpg
 5010588-1,New York City Magnet - Orange 5th Avenue,2026,734,0,https://cdn.rebrickable.com/media/sets/5010588-1.jpg
 5010589-1,New York City Magnet - NY Store Yellow,2026,734,0,https://cdn.rebrickable.com/media/sets/5010589-1.jpg
+5010590-1,New York City Magnet - Lady Liberty,2026,734,0,https://cdn.rebrickable.com/media/sets/5010590-1.jpg
+5010592-1,New York City Child Cap,2026,799,0,https://cdn.rebrickable.com/media/sets/5010592-1.jpg
 5010596-1,New York City Bag Charm - Hotdog,2026,503,0,https://cdn.rebrickable.com/media/sets/5010596-1.jpg
 5010597-1,New York City Bag Charm - Apple,2026,503,0,https://cdn.rebrickable.com/media/sets/5010597-1.jpg
 5010598-1,New York City Bag Charm - Pizza,2026,503,0,https://cdn.rebrickable.com/media/sets/5010598-1.jpg
@@ -20139,7 +20145,7 @@ set_num,name,year,theme_id,num_parts,img_url
 76412-1,Hufflepuff House Banner,2023,246,313,https://cdn.rebrickable.com/media/sets/76412-1.jpg
 76413-1,Hogwarts: Room of Requirement,2023,246,587,https://cdn.rebrickable.com/media/sets/76413-1.jpg
 76414-1,Expecto Patronum,2023,246,754,https://cdn.rebrickable.com/media/sets/76414-1.jpg
-76415-1,The Battle of Hogwarts,2023,246,740,https://cdn.rebrickable.com/media/sets/76415-1.jpg
+76415-1,The Battle of Hogwarts,2023,246,732,https://cdn.rebrickable.com/media/sets/76415-1.jpg
 76416-1,Quidditch Trunk,2023,246,599,https://cdn.rebrickable.com/media/sets/76416-1.jpg
 76417-1,Gringotts Wizarding Bank – Collectors' Edition,2023,246,4809,https://cdn.rebrickable.com/media/sets/76417-1.jpg
 76418-1,Harry Potter Advent Calendar 2023,2023,710,227,https://cdn.rebrickable.com/media/sets/76418-1.jpg
@@ -21309,7 +21315,7 @@ set_num,name,year,theme_id,num_parts,img_url
 8420-1,Street Bike,2005,1,506,https://cdn.rebrickable.com/media/sets/8420-1.jpg
 842-1,"Baseplates, Red and Blue",1980,473,2,https://cdn.rebrickable.com/media/sets/842-1.jpg
 8421-1,Mobile Crane,2005,1,1885,https://cdn.rebrickable.com/media/sets/8421-1.jpg
-842-2,Town Plan,1969,756,798,https://cdn.rebrickable.com/media/sets/842-2.jpg
+842-2,Town Plan,1969,756,799,https://cdn.rebrickable.com/media/sets/842-2.jpg
 8422-1,Circuit Shock Racer / V-Twin Super Bike,1995,1,311,https://cdn.rebrickable.com/media/sets/8422-1.jpg
 8423-1,World Grand Prix Racing Rivalry,2011,269,136,https://cdn.rebrickable.com/media/sets/8423-1.jpg
 8424-1,Mater's Spy Zone,2011,269,114,https://cdn.rebrickable.com/media/sets/8424-1.jpg
@@ -23557,6 +23563,7 @@ set_num,name,year,theme_id,num_parts,img_url
 9006791-1,Cole ZX Alarm Clock,2012,732,0,https://cdn.rebrickable.com/media/sets/9006791-1.jpg
 9007-1,Stack 'n' Learn Large Set,2001,516,69,https://cdn.rebrickable.com/media/sets/9007-1.jpg
 9007613-1,I Love LEGO Adult Watch,2014,732,33,https://cdn.rebrickable.com/media/sets/9007613-1.jpg
+9008016-1,"Watch Set, Brick Blue/White",2017,732,0,https://cdn.rebrickable.com/media/sets/9008016-1.jpg
 9008-1,Baby Set,1986,516,15,https://cdn.rebrickable.com/media/sets/9008-1.jpg
 9009-1,Stack 'n' Learn Giant Set,2001,516,102,https://cdn.rebrickable.com/media/sets/9009-1.jpg
 9009853-1,Brick Alarm Clock (Friends),2015,732,0,https://cdn.rebrickable.com/media/sets/9009853-1.jpg
@@ -23674,6 +23681,11 @@ set_num,name,year,theme_id,num_parts,img_url
 910066-1,Brick Railroad Locomotive,2026,719,0,https://cdn.rebrickable.com/media/sets/910066-1.jpg
 910067-1,Hot Air Balloon,2026,719,0,https://cdn.rebrickable.com/media/sets/910067-1.jpg
 910068-1,University of Science,2026,719,0,https://cdn.rebrickable.com/media/sets/910068-1.jpg
+910069-1,Fisherman's Village,2027,719,0,https://cdn.rebrickable.com/media/sets/910069-1.jpg
+910070-1,Sleepy Dragon Inn,2027,719,0,https://cdn.rebrickable.com/media/sets/910070-1.jpg
+910071-1,Wild West Blacksmith,2027,719,0,https://cdn.rebrickable.com/media/sets/910071-1.jpg
+910072-1,Woodbrick Freight Depot,2027,719,0,https://cdn.rebrickable.com/media/sets/910072-1.jpg
+910073-1,Pumpkin Patch,2027,719,0,https://cdn.rebrickable.com/media/sets/910073-1.jpg
 910-1,Universal Building Set,1976,465,318,https://cdn.rebrickable.com/media/sets/910-1.jpg
 9101-1,Duplo Toolo Large Set,1995,516,86,https://cdn.rebrickable.com/media/sets/9101-1.jpg
 9102-1,Small Duplo Toolo Set,1992,516,30,https://cdn.rebrickable.com/media/sets/9102-1.jpg
@@ -24625,6 +24637,7 @@ set_num,name,year,theme_id,num_parts,img_url
 9780241838389-1,DK Super Readers Level 1: Ninjago: Go Team Ninja,2027,759,0,https://cdn.rebrickable.com/media/sets/9780241838389-1.jpg
 9780241838563-1,Ninjago: Dragons Rising: Riyu the Dragon: Noodle Chaos,2027,759,0,https://cdn.rebrickable.com/media/sets/9780241838563-1.jpg
 9780241838570-1,City: Game On: Penguin Peril,2027,759,0,https://cdn.rebrickable.com/media/sets/9780241838570-1.jpg
+9780241845875-1,DK Super Readers Level 2: DC Comics Super Heroes: Batman: Batman Saves the Day,2027,759,0,https://cdn.rebrickable.com/media/sets/9780241845875-1.jpg
 9780307465597-1,Indiana Jones 2: The Adventure Continues: Prima's Official Game Guide,2009,758,0,https://cdn.rebrickable.com/media/sets/9780307465597-1.jpg
 9780307469137-1,Star Wars 3: The Clone Wars: Prima's Official Game Guide,2011,758,0,https://cdn.rebrickable.com/media/sets/9780307469137-1.jpg
 9780307891259-1,Pirates of the Caribbean: Prima's Offical Game Guide,2011,758,0,https://cdn.rebrickable.com/media/sets/9780307891259-1.jpg
@@ -25330,13 +25343,27 @@ set_num,name,year,theme_id,num_parts,img_url
 9781837252138-1,Tiny Pets: Panda,2026,761,0,https://cdn.rebrickable.com/media/sets/9781837252138-1.jpg
 9781837252145-1,Minecraft: Rare Mob Expedition: Search & Find Sticker Activity,2026,761,10,https://cdn.rebrickable.com/media/sets/9781837252145-1.jpg
 9781837252152-1,Ninjago: Dragons Rising: Cole's Mech Mission,2026,761,0,https://cdn.rebrickable.com/media/sets/9781837252152-1.jpg
-9781837252169-1,Star Wars: The Dark Lord,2026,761,0,https://cdn.rebrickable.com/media/sets/9781837252169-1.jpg
+9781837252169-1,Star Wars: The Dark Lord,2026,761,7,https://cdn.rebrickable.com/media/sets/9781837252169-1.jpg
 9781837252176-1,Harry Potter: Magical Lessons,2026,761,17,https://cdn.rebrickable.com/media/sets/9781837252176-1.jpg
 9781837252251-1,Ninjago: How to Draw,2026,761,0,https://cdn.rebrickable.com/media/sets/9781837252251-1.jpg
 9781837252268-1,DC Comics Batman: Silly Stickers,2026,760,0,https://cdn.rebrickable.com/media/sets/9781837252268-1.jpg
 9781837252336-1,Official Annual 2027,2026,761,0,https://cdn.rebrickable.com/media/sets/9781837252336-1.jpg
 9781837252343-1,Harry Potter: Official Yearbook 2027,2026,761,0,https://cdn.rebrickable.com/media/sets/9781837252343-1.jpg
 9781837252510-1,Marvel Super Heroes: Iron-Man: Hero in Action,2026,761,0,https://cdn.rebrickable.com/media/sets/9781837252510-1.jpg
+9781837252657-1,Star Wars: Rise of a Jedi,2027,759,0,https://cdn.rebrickable.com/media/sets/9781837252657-1.jpg
+9781837252671-1,Marvel Super Heroes: Spidey and His Amazing Friends: Adventures on Spider Island,2027,761,0,https://cdn.rebrickable.com/media/sets/9781837252671-1.jpg
+9781837252718-1,Harry Potter: Journey to Hogwarts,2027,761,0,https://cdn.rebrickable.com/media/sets/9781837252718-1.jpg
+9781837252725-1,Botanicals: Colouring Art,2027,760,0,https://cdn.rebrickable.com/media/sets/9781837252725-1.jpg
+9781837252732-1,Ninjago: Lloyd's Battle Missions,2027,761,0,https://cdn.rebrickable.com/media/sets/9781837252732-1.jpg
+9781837252749-1,Marvel Super Heroes: Spidey and His Amazing Friends: Spidey to the Rescue,2027,761,0,https://cdn.rebrickable.com/media/sets/9781837252749-1.jpg
+9781837252756-1,Star Wars: Galactic Missions: Search & Find Sticker Activity,2027,761,0,https://cdn.rebrickable.com/media/sets/9781837252756-1.jpg
+9781837252763-1,Marvel Super Heroes: Ghost-Spider's Adventures,2027,761,0,https://cdn.rebrickable.com/media/sets/9781837252763-1.jpg
+9781837252770-1,Minecraft: Mob House Mission: Search & Find Sticker Activity,2027,761,0,https://cdn.rebrickable.com/media/sets/9781837252770-1.jpg
+9781837252787-1,Minecraft: Tiny Mobs: Wolf Pup,2027,761,0,https://cdn.rebrickable.com/media/sets/9781837252787-1.jpg
+9781837252794-1,Minecraft: Tiny Mobs: Chicken,2027,761,0,https://cdn.rebrickable.com/media/sets/9781837252794-1.jpg
+9781837252800-1,Tiny Robots: Construction,2027,761,0,https://cdn.rebrickable.com/media/sets/9781837252800-1.jpg
+9781837252817-1,Tiny Robots: Rescue,2027,761,0,https://cdn.rebrickable.com/media/sets/9781837252817-1.jpg
+9781837252824-1,Minecraft: Fun to Colour,2027,760,0,https://cdn.rebrickable.com/media/sets/9781837252824-1.jpg
 9781838526771-1,Star Wars: Official Annual 2020,2019,761,5,https://cdn.rebrickable.com/media/sets/9781838526771-1.jpg
 9781838526788-1,Disney Princess: Official Annual 2020,2019,760,0,https://cdn.rebrickable.com/media/sets/9781838526788-1.jpg
 9781862086999-1,Castle Mystery: An Interactive Puzzle Storybook,1998,759,0,https://cdn.rebrickable.com/media/sets/9781862086999-1.jpg
@@ -25584,6 +25611,7 @@ set_num,name,year,theme_id,num_parts,img_url
 9798217121755-1,Minecraft: Wither Quest,2026,761,0,https://cdn.rebrickable.com/media/sets/9798217121755-1.jpg
 9798217121762-1,Minecraft: The End Adventure: Search & Find Sticker Activity,2026,761,7,https://cdn.rebrickable.com/media/sets/9798217121762-1.jpg
 9798225060862-1,Mini Golf,2026,761,0,https://cdn.rebrickable.com/media/sets/9798225060862-1.jpg
+9798225106492-1,Skate Park,2027,761,0,https://cdn.rebrickable.com/media/sets/9798225106492-1.jpg
 9799-1,Sensor Adaptor for Mindstorms NXT to Vernier,2008,259,1,https://cdn.rebrickable.com/media/sets/9799-1.jpg
 980-1,"23 sloping bricks, including roof peak bricks, Red",1969,371,23,https://cdn.rebrickable.com/media/sets/980-1.jpg
 980-2,"23 sloping bricks, including roof peak bricks, Blue",1969,371,23,https://cdn.rebrickable.com/media/sets/980-2.jpg
@@ -27161,7 +27189,7 @@ L0002251-1,Cactus Knight,2026,577,26,https://cdn.rebrickable.com/media/sets/l000
 L0002252-1,"Space Sentinel, Enderman and Endermite",2026,577,24,https://cdn.rebrickable.com/media/sets/l0002252-1.jpg
 L0002254-1,"Hero, Zombie and TNT Launcher",2026,577,24,https://cdn.rebrickable.com/media/sets/l0002254-1.jpg
 L0002260-1,Magma Cube,2026,577,39,https://cdn.rebrickable.com/media/sets/l0002260-1.jpg
-L0002261-1,Raptor and Volcano,2026,602,31,https://cdn.rebrickable.com/media/sets/l0002261-1.jpg
+L0002261-1,Raptor and Volcano,2026,602,28,https://cdn.rebrickable.com/media/sets/l0002261-1.jpg
 L0002265-1,Kitten and Vet's Office,2026,494,24,https://cdn.rebrickable.com/media/sets/l0002265-1.jpg
 L0002270-1,Mr. Freeze & Snowman,2026,697,12,https://cdn.rebrickable.com/media/sets/l0002270-1.jpg
 L0002271-1,Batman,2026,697,0,https://cdn.rebrickable.com/media/sets/l0002271-1.jpg
@@ -27186,7 +27214,7 @@ L0002294-1,Dump Truck,2026,1,0,https://cdn.rebrickable.com/media/sets/l0002294-1
 L025-1,Pencil Case Cylinder,2013,739,0,https://cdn.rebrickable.com/media/sets/l025-1.jpg
 L3516-1,LEGOLAND Cactus Girl Badge,2020,501,0,https://cdn.rebrickable.com/media/sets/l3516-1.jpg
 L3852-1,LEGOLAND Japan Kingdom Games Badge - Orange,2024,501,0,https://cdn.rebrickable.com/media/sets/l3852-1.jpg
-L3852-2,LEGOLAND Japan Kingdom Games Badge - Orange,2024,501,0,https://cdn.rebrickable.com/media/sets/l3852-2.jpg
+L3852-2,LEGOLAND Japan Kingdom Games Badge - Green,2024,501,0,https://cdn.rebrickable.com/media/sets/l3852-2.jpg
 LAMP-1,Brick 1 x 1 Round Lamp,2026,733,0,https://cdn.rebrickable.com/media/sets/lamp-1.jpg
 LANTERN-1,Lantern,2023,779,39,https://cdn.rebrickable.com/media/sets/lantern-1.jpg
 LANYARD-1,Minifigure Heads Lanyard,2020,501,0,https://cdn.rebrickable.com/media/sets/lanyard-1.jpg
@@ -28106,6 +28134,7 @@ SWORD-1,Light Sword,2021,737,0,https://cdn.rebrickable.com/media/sets/sword-1.jp
 SX0250-1,Ollie Dragon with Santa Hat,2022,735,0,https://cdn.rebrickable.com/media/sets/sx0250-1.jpg
 T2-1,Therapy - Storage Box with 2 Compartments,1965,507,1,https://cdn.rebrickable.com/media/sets/t2-1.jpg
 TACO-1,Taco,2023,494,19,https://cdn.rebrickable.com/media/sets/taco-1.jpg
+TALLSHIP-1,Tall ship,2026,408,0,https://cdn.rebrickable.com/media/sets/tallship-1.jpg
 TEDDYBEAR-1,Teddy Bear,2020,232,67,https://cdn.rebrickable.com/media/sets/teddybear-1.jpg
 TerapiI-1,Therapy I,1965,507,1,https://cdn.rebrickable.com/media/sets/terapii-1.jpg
 TerapiI-2,Therapy I with Duplo,1969,516,1,https://cdn.rebrickable.com/media/sets/terapii-2.jpg
