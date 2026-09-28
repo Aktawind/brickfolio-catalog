@@ -2143,6 +2143,7 @@ set_num,name,year,theme_id,num_parts,img_url
 158-1,Railroad Crossing Gate,1969,235,8,https://cdn.rebrickable.com/media/sets/158-1.jpg
 1581-1,Silja Line Ferry,1981,471,183,https://cdn.rebrickable.com/media/sets/1581-1.jpg
 1581-2,Delivery Truck,1990,67,123,https://cdn.rebrickable.com/media/sets/1581-2.jpg
+1583-1,Circus Bucket,1992,505,33,https://cdn.rebrickable.com/media/sets/1583-1.jpg
 1584-1,Knights Challenge,1988,199,168,https://cdn.rebrickable.com/media/sets/1584-1.jpg
 1588-1,Basic Set,1987,467,27,https://cdn.rebrickable.com/media/sets/1588-1.jpg
 1589-1,Town Square,1978,67,443,https://cdn.rebrickable.com/media/sets/1589-1.jpg
@@ -2247,6 +2248,7 @@ set_num,name,year,theme_id,num_parts,img_url
 1656-2,Viking Line Ferry,1982,471,179,https://cdn.rebrickable.com/media/sets/1656-2.jpg
 1657-1,Bird,1990,505,6,https://cdn.rebrickable.com/media/sets/1657-1.jpg
 1658-1,Viking Line Ferry,1982,471,203,https://cdn.rebrickable.com/media/sets/1658-1.jpg
+1659-1,DUPLO Tote Pack,1992,505,30,https://cdn.rebrickable.com/media/sets/1659-1.jpg
 1660-1,Kronprins Frederik Ferry,1996,471,165,https://cdn.rebrickable.com/media/sets/1660-1.jpg
 166-1,Flat Wagon,1978,235,51,https://cdn.rebrickable.com/media/sets/166-1.jpg
 1661-2,Basic Building Set in Bucket,1989,467,422,https://cdn.rebrickable.com/media/sets/1661-2.jpg
@@ -2507,6 +2509,7 @@ set_num,name,year,theme_id,num_parts,img_url
 1889-1,Pirate's Treasure Hold,1992,148,38,https://cdn.rebrickable.com/media/sets/1889-1.jpg
 1890-1,Octan Racer,1992,67,47,https://cdn.rebrickable.com/media/sets/1890-1.jpg
 1891-1,Four Set Value Pack,1992,559,0,https://cdn.rebrickable.com/media/sets/1891-1.jpg
+1893-1,Jungle Bucket,1992,505,37,https://cdn.rebrickable.com/media/sets/1893-1.jpg
 1895-1,Sky Patrol,1992,67,89,https://cdn.rebrickable.com/media/sets/1895-1.jpg
 1896-1,Trauma Team,1992,67,296,https://cdn.rebrickable.com/media/sets/1896-1.jpg
 1898-1,Weetabix Dragster,1989,67,27,https://cdn.rebrickable.com/media/sets/1898-1.jpg
@@ -2529,6 +2532,7 @@ set_num,name,year,theme_id,num_parts,img_url
 1905-1,Mini Basic Set,1982,465,36,https://cdn.rebrickable.com/media/sets/1905-1.jpg
 1906-1,Majisto's Tower,1994,190,196,https://cdn.rebrickable.com/media/sets/1906-1.jpg
 1907-1,Crecer Feliz Giftbox,1990,504,2,https://cdn.rebrickable.com/media/sets/1907-1.jpg
+1908-1,DUPLO Bonus Bucket,1993,505,39,https://cdn.rebrickable.com/media/sets/1908-1.jpg
 19-1,Farm Family,1986,443,4,https://cdn.rebrickable.com/media/sets/19-1.jpg
 1910-1,Promo Basic Set,1982,465,88,https://cdn.rebrickable.com/media/sets/1910-1.jpg
 1911-1,Basic Set,1983,465,34,https://cdn.rebrickable.com/media/sets/1911-1.jpg
@@ -3851,10 +3855,13 @@ set_num,name,year,theme_id,num_parts,img_url
 2365-1,Basic Set (Safari),1983,505,34,https://cdn.rebrickable.com/media/sets/2365-1.jpg
 2366-1,House and Car,1987,505,26,https://cdn.rebrickable.com/media/sets/2366-1.jpg
 2368-1,XL Basic Bucket,1995,505,72,https://cdn.rebrickable.com/media/sets/2368-1.jpg
+2369-1,DUPLO Rally Race Bucket,1993,505,38,https://cdn.rebrickable.com/media/sets/2369-1.jpg
 2370-1,Basic Building Set,1981,505,49,https://cdn.rebrickable.com/media/sets/2370-1.jpg
 237-1,Number Bricks,1960,371,50,https://cdn.rebrickable.com/media/sets/237-1.jpg
 2371-1,Flying School,1991,505,39,https://cdn.rebrickable.com/media/sets/2371-1.jpg
 2372-1,Zoo Bucket,1993,505,38,https://cdn.rebrickable.com/media/sets/2372-1.jpg
+2373-1,DUPLO Basic Bucket,1992,505,47,https://cdn.rebrickable.com/media/sets/2373-1.jpg
+2374-1,Medium DUPLO Basic Bonus Bucket,1992,505,59,https://cdn.rebrickable.com/media/sets/2374-1.jpg
 2376-1,Play Bucket,1991,505,36,https://cdn.rebrickable.com/media/sets/2376-1.jpg
 2377-1,Basic Set (Safari),1987,505,45,https://cdn.rebrickable.com/media/sets/2377-1.jpg
 2378-1,PreSchool Building Set: Farm-in-a-Bucket,1993,632,53,https://cdn.rebrickable.com/media/sets/2378-1.jpg
@@ -3864,6 +3871,7 @@ set_num,name,year,theme_id,num_parts,img_url
 238-2,LEGO System Idea Book (by Samsonite),1961,757,0,https://cdn.rebrickable.com/media/sets/238-2.jpg
 2382-1,Train Bucket,1993,505,44,https://cdn.rebrickable.com/media/sets/2382-1.jpg
 238-3,LEGO System Idea Book no. 1,1962,757,0,https://cdn.rebrickable.com/media/sets/238-3.jpg
+2383-1,Large DUPLO Basic Bonus Bucket,1992,505,61,https://cdn.rebrickable.com/media/sets/2383-1.jpg
 238-4,LEGO System Ideas Book no. 2,1962,757,0,https://cdn.rebrickable.com/media/sets/238-4.jpg
 2384-1,Farm Bucket,1992,505,73,https://cdn.rebrickable.com/media/sets/2384-1.jpg
 238-5,LEGO System Ideas Book no. 2,1963,757,0,https://cdn.rebrickable.com/media/sets/238-5.jpg
@@ -7536,6 +7544,7 @@ set_num,name,year,theme_id,num_parts,img_url
 40894-1,Koenigsegg Sadair's Spear Steering Wheel,2026,1,228,https://cdn.rebrickable.com/media/sets/40894-1.jpg
 40896-1,The X-Files: Scully's Lab,2026,576,221,https://cdn.rebrickable.com/media/sets/40896-1.jpg
 40897-1,Darth Vader's LIGHTSABER,2026,158,0,https://cdn.rebrickable.com/media/sets/40897-1.jpg
+40899-1,Astro Bot,2026,301,0,https://cdn.rebrickable.com/media/sets/40899-1.jpg
 40900-1,Scary Haunted Tree,2026,230,218,https://cdn.rebrickable.com/media/sets/40900-1.jpg
 4090-1,Motion Madness,2003,406,243,https://cdn.rebrickable.com/media/sets/4090-1.jpg
 40901-1,Ministry Munchies & The Daily Prophet Stands,2026,246,150,https://cdn.rebrickable.com/media/sets/40901-1.jpg
@@ -7586,7 +7595,7 @@ set_num,name,year,theme_id,num_parts,img_url
 4097-1,Mini Robots,2003,204,229,https://cdn.rebrickable.com/media/sets/4097-1.jpg
 40972-1,Crocs,2026,598,7,https://cdn.rebrickable.com/media/sets/40972-1.jpg
 40973-1,Crocs Multi,2026,598,16,https://cdn.rebrickable.com/media/sets/40973-1.jpg
-40975-1,Mini Hogwarts Castle,2026,246,701,https://cdn.rebrickable.com/media/sets/40975-1.jpg
+40975-1,Mini Hogwarts Castle,2026,246,700,https://cdn.rebrickable.com/media/sets/40975-1.jpg
 4098-1,High Flyers,2003,204,197,https://cdn.rebrickable.com/media/sets/4098-1.jpg
 4099-1,Robobots,2003,204,326,https://cdn.rebrickable.com/media/sets/4099-1.jpg
 4-1,Therapy I Without Box,1971,507,0,https://cdn.rebrickable.com/media/sets/4-1.jpg
@@ -15157,6 +15166,7 @@ set_num,name,year,theme_id,num_parts,img_url
 6277-1,Imperial Trading Post,1992,148,621,https://cdn.rebrickable.com/media/sets/6277-1.jpg
 6277552-1,Birthday Cake,2019,301,30,https://cdn.rebrickable.com/media/sets/6277552-1.jpg
 6277566-1,Frame Make & Take,2018,408,28,https://cdn.rebrickable.com/media/sets/6277566-1.jpg
+6277578-1,Minicake Blue Candle,2018,598,30,https://cdn.rebrickable.com/media/sets/6277578-1.jpg
 6278-1,Enchanted Island,1994,148,440,https://cdn.rebrickable.com/media/sets/6278-1.jpg
 6278335-1,Emmet Lenticular Mosaic,2019,670,2305,https://cdn.rebrickable.com/media/sets/6278335-1.jpg
 6278700-1,Chinese New Year Windmill,2019,206,64,https://cdn.rebrickable.com/media/sets/6278700-1.jpg
@@ -15451,7 +15461,7 @@ set_num,name,year,theme_id,num_parts,img_url
 6431094-1,Sydney Tile,2022,408,1,https://cdn.rebrickable.com/media/sets/6431094-1.jpg
 6431096-1,Singapore Tile,2022,408,1,https://cdn.rebrickable.com/media/sets/6431096-1.jpg
 6431-1,Road Rescue,1998,92,48,https://cdn.rebrickable.com/media/sets/6431-1.jpg
-64314-1,Toa Inika Kongu Talisman Nestlé #11,2006,598,0,https://cdn.rebrickable.com/media/sets/64314-1.jpg
+64314-1,Toa Inika Kongu Talisman Nestlé #11,2006,598,1,https://cdn.rebrickable.com/media/sets/64314-1.jpg
 6431476-1,Barcelona Tile,2022,408,1,https://cdn.rebrickable.com/media/sets/6431476-1.jpg
 643-2,Mobile Crane,1971,416,35,https://cdn.rebrickable.com/media/sets/643-2.jpg
 6432-1,Speedway Transport,1999,94,139,https://cdn.rebrickable.com/media/sets/6432-1.jpg
@@ -15690,7 +15700,7 @@ set_num,name,year,theme_id,num_parts,img_url
 6530-1,Sport Coupe,1990,67,43,https://cdn.rebrickable.com/media/sets/6530-1.jpg
 653-1,Ambulance and Helicopter,1973,420,37,https://cdn.rebrickable.com/media/sets/653-1.jpg
 6531-1,Flame Chaser,1991,67,56,https://cdn.rebrickable.com/media/sets/6531-1.jpg
-65312-1,Toa Inika Matoro Talisman Nestlé #12,2006,598,0,https://cdn.rebrickable.com/media/sets/65312-1.jpg
+65312-1,Toa Inika Matoro Talisman Nestlé #12,2006,598,1,https://cdn.rebrickable.com/media/sets/65312-1.jpg
 653-2,1:87 Mercedes Flatbed Truck,1964,368,1,https://cdn.rebrickable.com/media/sets/653-2.jpg
 6532-1,Diesel Dumper,1991,67,47,https://cdn.rebrickable.com/media/sets/6532-1.jpg
 6532683-1,Progress Flag,2024,408,65,https://cdn.rebrickable.com/media/sets/6532683-1.jpg
@@ -15774,6 +15784,7 @@ set_num,name,year,theme_id,num_parts,img_url
 65572-1,Spider-Man Co-Pack,2005,706,0,https://cdn.rebrickable.com/media/sets/65572-1.jpg
 65573-1,Rumble Racers,2005,112,0,https://cdn.rebrickable.com/media/sets/65573-1.jpg
 6557591-1,Rangoli,2024,408,127,https://cdn.rebrickable.com/media/sets/6557591-1.jpg
+6557632-1,Mash Up Vehicle,2024,598,54,https://cdn.rebrickable.com/media/sets/6557632-1.jpg
 6557635-1,Petshop,2025,494,29,https://cdn.rebrickable.com/media/sets/6557635-1.jpg
 6557636-1,Treehouse,2025,598,39,https://cdn.rebrickable.com/media/sets/6557636-1.jpg
 6557637-1,Flowercard,2025,769,30,https://cdn.rebrickable.com/media/sets/6557637-1.jpg
@@ -15903,6 +15914,7 @@ set_num,name,year,theme_id,num_parts,img_url
 6581209-1,Ice Cream,2025,598,21,https://cdn.rebrickable.com/media/sets/6581209-1.jpg
 65813-1,Special Edition Co-Pack with Sidorak and Toa Iruini (8756 8762),2005,324,0,https://cdn.rebrickable.com/media/sets/65813-1.jpg
 6581677-1,Creative Wildlife Panda and Flamingo,2025,598,48,https://cdn.rebrickable.com/media/sets/6581677-1.jpg
+6581678-1,Flower Bouquet,2025,408,30,https://cdn.rebrickable.com/media/sets/6581678-1.jpg
 6581680-1,Mixer,2025,598,34,https://cdn.rebrickable.com/media/sets/6581680-1.jpg
 6581684-1,Creative Wildlife Flower and Fish,2025,598,54,https://cdn.rebrickable.com/media/sets/6581684-1.jpg
 658-2,1:87 VW Van,1964,368,0,https://cdn.rebrickable.com/media/sets/658-2.jpg
@@ -15955,6 +15967,7 @@ set_num,name,year,theme_id,num_parts,img_url
 6596088-1,I [Heart] LEGO Store Bridgeport Village Tile,2025,408,1,https://cdn.rebrickable.com/media/sets/6596088-1.jpg
 6596089-1,I [Heart] LEGO Store Perimeter Mall Tile,2025,408,1,https://cdn.rebrickable.com/media/sets/6596089-1.jpg
 6596-1,Wave Master,1995,67,134,https://cdn.rebrickable.com/media/sets/6596-1.jpg
+6596781-1,LEGO Bench,2025,408,50,https://cdn.rebrickable.com/media/sets/6596781-1.jpg
 6597-1,Century Skyway,1994,67,905,https://cdn.rebrickable.com/media/sets/6597-1.jpg
 6597567-1,I [Heart] LEGO Store Alabang Town Center Tile,2025,408,1,https://cdn.rebrickable.com/media/sets/6597567-1.jpg
 6597568-1,The Inside Tour Torso,2025,599,1,https://cdn.rebrickable.com/media/sets/6597568-1.jpg
@@ -15997,7 +16010,7 @@ set_num,name,year,theme_id,num_parts,img_url
 6609-1,Race Car,1980,67,17,https://cdn.rebrickable.com/media/sets/6609-1.jpg
 6610-1,Shell Petrol Pumps,1981,67,29,https://cdn.rebrickable.com/media/sets/6610-1.jpg
 6610129-1,Penguin Holiday,2025,227,0,https://cdn.rebrickable.com/media/sets/6610129-1.jpg
-6610131-1,Toy Soldier,2025,227,0,https://cdn.rebrickable.com/media/sets/6610131-1.jpg
+6610131-1,Toy Soldier,2025,227,22,https://cdn.rebrickable.com/media/sets/6610131-1.jpg
 6610158-1,Ornament Note,2025,227,0,https://cdn.rebrickable.com/media/sets/6610158-1.jpg
 66106-1,Duplo Value Pack,2006,650,0,https://cdn.rebrickable.com/media/sets/66106-1.jpg
 66107-1,Value Pack,2006,58,0,https://cdn.rebrickable.com/media/sets/66107-1.jpg
@@ -16026,7 +16039,7 @@ set_num,name,year,theme_id,num_parts,img_url
 6614213-1,Bike Burger Cart,2026,52,41,https://cdn.rebrickable.com/media/sets/6614213-1.jpg
 6614216-1,Micro Cactus,2026,769,39,https://cdn.rebrickable.com/media/sets/6614216-1.jpg
 6614217-1,Micro Peace Lily,2026,769,46,https://cdn.rebrickable.com/media/sets/6614217-1.jpg
-6614219-1,Blooming Heart,2026,232,47,https://cdn.rebrickable.com/media/sets/6614219-1.jpg
+6614219-1,Blooming Heart,2026,232,48,https://cdn.rebrickable.com/media/sets/6614219-1.jpg
 6614220-1,Micro Pink Rose,2026,408,25,https://cdn.rebrickable.com/media/sets/6614220-1.jpg
 6614222-1,Unicorn,2026,598,38,https://cdn.rebrickable.com/media/sets/6614222-1.jpg
 6614223-1,Little HeiHei,2026,608,32,https://cdn.rebrickable.com/media/sets/6614223-1.jpg
@@ -16447,7 +16460,7 @@ set_num,name,year,theme_id,num_parts,img_url
 66619-1,Super Pack 3-in-1,2019,52,0,https://cdn.rebrickable.com/media/sets/66619-1.jpg
 66620-1,Friends Super Pack 3-in-1,2019,494,0,https://cdn.rebrickable.com/media/sets/66620-1.jpg
 6662-1,Backhoe,1992,67,87,https://cdn.rebrickable.com/media/sets/6662-1.jpg
-6662602-1,Gnome,2026,408,0,https://cdn.rebrickable.com/media/sets/6662602-1.jpg
+6662602-1,Gnome,2026,408,30,https://cdn.rebrickable.com/media/sets/6662602-1.jpg
 6663053-1,Siege Tower,2026,561,111,https://cdn.rebrickable.com/media/sets/6663053-1.jpg
 6663-1,Wave Rebel,1993,67,79,https://cdn.rebrickable.com/media/sets/6663-1.jpg
 66635-1,Super Mech Pack,2020,696,0,https://cdn.rebrickable.com/media/sets/66635-1.jpg
@@ -16521,6 +16534,7 @@ set_num,name,year,theme_id,num_parts,img_url
 66744-1,2 in 1 Bundle Pack,2023,52,0,https://cdn.rebrickable.com/media/sets/66744-1.jpg
 66745-1,Classic Value Pack,2023,621,0,https://cdn.rebrickable.com/media/sets/66745-1.jpg
 66747-1,Animal Play Pack,2023,229,0,https://cdn.rebrickable.com/media/sets/66747-1.jpg
+6674871-1,Tall ship,2026,408,45,https://cdn.rebrickable.com/media/sets/6674871-1.jpg
 66749-1,Character Pack Series 6 - Box of 4 Packs,2023,690,0,https://cdn.rebrickable.com/media/sets/66749-1.jpg
 6675-1,Road & Trail 4x4,1988,67,81,https://cdn.rebrickable.com/media/sets/6675-1.jpg
 6675226-1,Father's Day Frame,2027,598,27,https://cdn.rebrickable.com/media/sets/6675226-1.jpg
@@ -16914,7 +16928,7 @@ set_num,name,year,theme_id,num_parts,img_url
 6995-1,Piraka Thok Nestlé #3,2006,324,3,https://cdn.rebrickable.com/media/sets/6995-1.jpg
 6996-1,Piraka Reidak Nestlé #1,2006,324,3,https://cdn.rebrickable.com/media/sets/6996-1.jpg
 6997-1,Piraka Avak Nestlé #2,2006,324,3,https://cdn.rebrickable.com/media/sets/6997-1.jpg
-6998-1,Piraka ReidakTalisman Nestlé #7,2006,598,0,https://cdn.rebrickable.com/media/sets/6998-1.jpg
+6998-1,Piraka Reidak Talisman Nestlé #7,2006,598,1,https://cdn.rebrickable.com/media/sets/6998-1.jpg
 6999-1,Cyber Saucer,1997,144,116,https://cdn.rebrickable.com/media/sets/6999-1.jpg
 70000-1,Razcal's Glider,2013,571,109,https://cdn.rebrickable.com/media/sets/70000-1.jpg
 700.0-1,Gift Package,1957,372,238,https://cdn.rebrickable.com/media/sets/700.0-1.jpg
@@ -17304,7 +17318,7 @@ set_num,name,year,theme_id,num_parts,img_url
 70678-1,Castle of the Forsaken Emperor,2019,435,1223,https://cdn.rebrickable.com/media/sets/70678-1.jpg
 70679-1,The Ultra Dragon,2019,435,952,https://cdn.rebrickable.com/media/sets/70679-1.jpg
 70680-1,Monastery Training,2019,435,131,https://cdn.rebrickable.com/media/sets/70680-1.jpg
-7068-1,Piraka VezokTalisman Nestlé #9,2006,598,0,https://cdn.rebrickable.com/media/sets/7068-1.jpg
+7068-1,Piraka Vezok Talisman Nestlé #9,2006,598,1,https://cdn.rebrickable.com/media/sets/7068-1.jpg
 70681-1,Spinjitzu Slam - Lloyd,2019,435,70,https://cdn.rebrickable.com/media/sets/70681-1.jpg
 70682-1,Spinjitzu Slam - Jay,2019,435,72,https://cdn.rebrickable.com/media/sets/70682-1.jpg
 70683-1,Spinjitzu Slam - Zane,2019,435,64,https://cdn.rebrickable.com/media/sets/70683-1.jpg
@@ -17315,7 +17329,7 @@ set_num,name,year,theme_id,num_parts,img_url
 70688-1,Kai's Spinjitzu Ninja Training,2022,435,33,https://cdn.rebrickable.com/media/sets/70688-1.jpg
 70689-1,Lloyd's Spinjitzu Ninja Training,2022,435,33,https://cdn.rebrickable.com/media/sets/70689-1.jpg
 70690-1,Jay's Spinjitzu Ninja Training,2022,435,26,https://cdn.rebrickable.com/media/sets/70690-1.jpg
-7069-1,Toa Inika Hewkii Talisman Nestlé #10,2006,598,0,https://cdn.rebrickable.com/media/sets/7069-1.jpg
+7069-1,Toa Inika Hewkii Talisman Nestlé #10,2006,598,1,https://cdn.rebrickable.com/media/sets/7069-1.jpg
 70700-1,Space Swarmer,2013,146,86,https://cdn.rebrickable.com/media/sets/70700-1.jpg
 7070-1,Catapult Raft,2004,279,23,https://cdn.rebrickable.com/media/sets/7070-1.jpg
 70701-1,Swarm Interceptor,2013,146,218,https://cdn.rebrickable.com/media/sets/70701-1.jpg
@@ -17370,7 +17384,7 @@ set_num,name,year,theme_id,num_parts,img_url
 70754-1,ElectroMech,2015,435,153,https://cdn.rebrickable.com/media/sets/70754-1.jpg
 70755-1,Jungle Raider,2015,435,188,https://cdn.rebrickable.com/media/sets/70755-1.jpg
 70756-1,Dojo Showdown,2015,435,215,https://cdn.rebrickable.com/media/sets/70756-1.jpg
-7077-1,Piraka Hakann Talisman Nestlé #8,2006,598,0,https://cdn.rebrickable.com/media/sets/7077-1.jpg
+7077-1,Piraka Hakann Talisman Nestlé #8,2006,598,1,https://cdn.rebrickable.com/media/sets/7077-1.jpg
 70773-1,Legends of Chima The Lion Tribe School Backpack,2016,777,0,https://cdn.rebrickable.com/media/sets/70773-1.jpg
 70778-1,Protector of Jungle,2015,360,64,https://cdn.rebrickable.com/media/sets/70778-1.jpg
 70779-1,Protector of Stone,2015,360,73,https://cdn.rebrickable.com/media/sets/70779-1.jpg
@@ -23669,7 +23683,7 @@ set_num,name,year,theme_id,num_parts,img_url
 910029-1,Mountain Fortress,2024,719,3997,https://cdn.rebrickable.com/media/sets/910029-1.jpg
 910030-1,Snack Shack,2024,719,539,https://cdn.rebrickable.com/media/sets/910030-1.jpg
 910031-1,General Store,2024,719,1906,https://cdn.rebrickable.com/media/sets/910031-1.jpg
-910032-1,Parisian Street,2024,719,3533,https://cdn.rebrickable.com/media/sets/910032-1.jpg
+910032-1,Parisian Street,2024,719,3532,https://cdn.rebrickable.com/media/sets/910032-1.jpg
 910033-1,Old Train Engine Shed,2024,719,2339,https://cdn.rebrickable.com/media/sets/910033-1.jpg
 910034-1,Brick Cross,2024,719,3050,https://cdn.rebrickable.com/media/sets/910034-1.jpg
 910035-1,Logging Railway,2024,719,2731,https://cdn.rebrickable.com/media/sets/910035-1.jpg
@@ -25316,6 +25330,7 @@ set_num,name,year,theme_id,num_parts,img_url
 9781797240503-1,Mystery Minifigure Mini Puzzle (Halloween Edition) - 12 Pack,2026,741,0,https://cdn.rebrickable.com/media/sets/9781797240503-1.jpg
 9781797241029-1,Mystery Minifigure Mini Puzzle (Christmas Edition 2) - 12 Pack,2026,741,0,https://cdn.rebrickable.com/media/sets/9781797241029-1.jpg
 9781797245560-1,Giant Floor Puzzle: Vehicles,2026,741,0,https://cdn.rebrickable.com/media/sets/9781797245560-1.jpg
+9781797248035-1,Botanicals Stationery Set,2027,739,0,https://cdn.rebrickable.com/media/sets/9781797248035-1.jpg
 9781800181885-1,The Secret Life of LEGO Bricks,2022,758,0,https://cdn.rebrickable.com/media/sets/9781800181885-1.jpg
 9781837250011-1,Dreamzzz: Cooper in Action,2024,761,22,https://cdn.rebrickable.com/media/sets/9781837250011-1.jpg
 9781837250028-1,City: Space Mission,2024,761,16,https://cdn.rebrickable.com/media/sets/9781837250028-1.jpg
@@ -25916,6 +25931,7 @@ BIONICLEMcD-2.5,Bionicle Mahri Toa Hahli,2007,501,0,https://cdn.rebrickable.com/
 BIONICLEMcD-2.7,Bionicle Mahri Toa Matoro,2007,501,0,https://cdn.rebrickable.com/media/sets/bioniclemcd-2.7.jpg
 BIONICLE-QFTM-1,Bionicle Trading Card Game - Quest for the Mask - All Cards,2001,746,310,https://cdn.rebrickable.com/media/sets/bionicle-qftm-1.jpg
 BIRMINGHAM-1,"LEGO Store Grand Opening Exclusive Set, Riverchase Galleria, Birmingham, AL",2009,408,79,https://cdn.rebrickable.com/media/sets/birmingham-1.jpg
+BIRTHDAYCAKE-2,Birthday Cake,2015,598,37,https://cdn.rebrickable.com/media/sets/birthdaycake-2.jpg
 BLACKSMITH-1,Four Weapons Blacksmith,2026,435,81,https://cdn.rebrickable.com/media/sets/blacksmith-1.jpg
 BLANKET-1,Frozen Hooded Blanket,2020,733,0,https://cdn.rebrickable.com/media/sets/blanket-1.jpg
 BLANKET-2,LEGOLAND Mermaid Tail Fleece Blanket,2020,733,0,https://cdn.rebrickable.com/media/sets/blanket-2.jpg
@@ -25953,7 +25969,7 @@ BUCKET-4,NINJAGO Cinch Bucket,2022,740,0,https://cdn.rebrickable.com/media/sets/
 Build-a-Mini-0,Build-A-Minifigure Station Exclusive Parts,2018,746,17,https://cdn.rebrickable.com/media/sets/build-a-mini-0.jpg
 Build-a-Mini-2018,2018 Build-A-Minifigure Station Exclusive Parts,2018,746,3,https://cdn.rebrickable.com/media/sets/build-a-mini-2018.jpg
 Build-a-Mini-2019,2019 Build-A-Minifigure Station Exclusive Parts,2019,746,34,https://cdn.rebrickable.com/media/sets/build-a-mini-2019.jpg
-Build-a-Mini-2020,2020 Build-A-Minifigure Station Exclusive Parts,2020,746,20,https://cdn.rebrickable.com/media/sets/build-a-mini-2020.jpg
+Build-a-Mini-2020,2020 Build-A-Minifigure Station Exclusive Parts,2020,746,24,https://cdn.rebrickable.com/media/sets/build-a-mini-2020.jpg
 Build-a-Mini-2021,2021 Build-A-Minifigure Station Exclusive Parts,2021,746,30,https://cdn.rebrickable.com/media/sets/build-a-mini-2021.jpg
 Build-a-Mini-2022,2022 Build-A-Minifigure Station Exclusive Parts,2022,746,55,https://cdn.rebrickable.com/media/sets/build-a-mini-2022.jpg
 Build-a-Mini-2023,2023 Build-A-Minifigure Station Exclusive Parts,2023,746,42,https://cdn.rebrickable.com/media/sets/build-a-mini-2023.jpg
@@ -26118,7 +26134,7 @@ DATABASE-2014,2014 - Unused Parts Database Set,2014,746,30,https://cdn.rebrickab
 DATABASE-2015,2015 - Unused Parts Database Set,2015,746,56,https://cdn.rebrickable.com/media/sets/database-2015.jpg
 DATABASE-2016,2016 - Unused Parts Database Set,2016,746,40,https://cdn.rebrickable.com/media/sets/database-2016.jpg
 DATABASE-2017,2017 - Unused Parts Database Set,2017,746,43,https://cdn.rebrickable.com/media/sets/database-2017.jpg
-DATABASE-2018,2018 - Unused Parts Database Set,2018,746,61,https://cdn.rebrickable.com/media/sets/database-2018.jpg
+DATABASE-2018,2018 - Unused Parts Database Set,2018,746,62,https://cdn.rebrickable.com/media/sets/database-2018.jpg
 DATABASE-2019,2019 - Unused Parts Database Set,2019,746,43,https://cdn.rebrickable.com/media/sets/database-2019.jpg
 DATABASE-2020,2020 - Unused Parts Database Set,2020,746,28,https://cdn.rebrickable.com/media/sets/database-2020.jpg
 DATABASE-2021,2021 - Unused Parts Database Set,2021,746,39,https://cdn.rebrickable.com/media/sets/database-2021.jpg
@@ -26243,7 +26259,7 @@ EG00115-1,6x Easter Chicks,2024,229,204,https://cdn.rebrickable.com/media/sets/e
 EG00116-1,Celebration Greeting,2024,301,110,https://cdn.rebrickable.com/media/sets/eg00116-1.jpg
 EG00117-1,Medieval Minifigure Stand,2024,301,195,https://cdn.rebrickable.com/media/sets/eg00117-1.jpg
 EG00118-1,LEGO Store Minifigure Stand,2024,301,200,https://cdn.rebrickable.com/media/sets/eg00118-1.jpg
-EG00119-1,Botanical Minifigure Stand,2024,301,158,https://cdn.rebrickable.com/media/sets/eg00119-1.jpg
+EG00119-1,Botanical Minifigure Stand,2024,301,164,https://cdn.rebrickable.com/media/sets/eg00119-1.jpg
 EG00120-1,Minifigure Crossing Stand,2024,301,200,https://cdn.rebrickable.com/media/sets/eg00120-1.jpg
 EG00121-1,Police Line-up Minifigure Stand,2024,301,179,https://cdn.rebrickable.com/media/sets/eg00121-1.jpg
 EG00122-1,Remote Control Car Minifigure Stand,2024,301,200,https://cdn.rebrickable.com/media/sets/eg00122-1.jpg
@@ -27186,6 +27202,7 @@ L0002212-1,Zane-Mech,2026,435,99,https://cdn.rebrickable.com/media/sets/l0002212
 L0002213-1,Kai vs. Rox,2026,435,13,https://cdn.rebrickable.com/media/sets/l0002213-1.jpg
 L0002214-1,Jay and Mutation Monster,2026,435,24,https://cdn.rebrickable.com/media/sets/l0002214-1.jpg
 L0002215-1,Nya and Grimfax,2026,435,20,https://cdn.rebrickable.com/media/sets/l0002215-1.jpg
+L0002216-1,Zane and Loyalist Leader,2026,435,17,https://cdn.rebrickable.com/media/sets/l0002216-1.jpg
 L0002220-1,Police on Snowmobile,2026,61,32,https://cdn.rebrickable.com/media/sets/l0002220-1.jpg
 L0002221-1,Construction Worker,2026,56,25,https://cdn.rebrickable.com/media/sets/l0002221-1.jpg
 L0002222-1,Stunt Rider with Motorcycle,2026,63,14,https://cdn.rebrickable.com/media/sets/l0002222-1.jpg
@@ -27193,6 +27210,7 @@ L0002223-1,Street Sweeper,2026,52,29,https://cdn.rebrickable.com/media/sets/l000
 L0002224-1,Firefighter,2026,58,33,https://cdn.rebrickable.com/media/sets/l0002224-1.jpg
 L0002225-1,Construction Worker with Roller,2026,56,34,https://cdn.rebrickable.com/media/sets/l0002225-1.jpg
 L0002226-1,Beach Quad,2026,55,28,https://cdn.rebrickable.com/media/sets/l0002226-1.jpg
+L0002227-1,Firefighter with Helicopter,2026,58,28,https://cdn.rebrickable.com/media/sets/l0002227-1.jpg
 L0002231-1,Phase 1 Clone Pilot,2025,158,5,https://cdn.rebrickable.com/media/sets/l0002231-1.jpg
 L0002232-1,Night Trooper,2026,158,5,https://cdn.rebrickable.com/media/sets/l0002232-1.jpg
 L0002233-1,Phase 2 Clone Pilot,2026,158,5,https://cdn.rebrickable.com/media/sets/l0002233-1.jpg
@@ -27221,7 +27239,7 @@ L0002270-1,Mr. Freeze & Snowman,2026,697,12,https://cdn.rebrickable.com/media/se
 L0002271-1,Batman,2026,697,0,https://cdn.rebrickable.com/media/sets/l0002271-1.jpg
 L0002272-1,Bane in Prison,2026,697,27,https://cdn.rebrickable.com/media/sets/l0002272-1.jpg
 L0002273-1,The Riddler,2026,697,19,https://cdn.rebrickable.com/media/sets/l0002273-1.jpg
-L0002276-1,Black Panther with Hoverboard,2026,702,0,https://cdn.rebrickable.com/media/sets/l0002276-1.jpg
+L0002276-1,Black Panther with Hoverboard,2026,702,19,https://cdn.rebrickable.com/media/sets/l0002276-1.jpg
 L0002277-1,Iron Man,2026,702,22,https://cdn.rebrickable.com/media/sets/l0002277-1.jpg
 L0002277-2,Iron Man [Helmet Tin],2026,702,22,https://cdn.rebrickable.com/media/sets/l0002277-2.jpg
 L0002278-1,Hulk vs. Red Hulk,2026,702,8,https://cdn.rebrickable.com/media/sets/l0002278-1.jpg
@@ -27279,7 +27297,7 @@ LEG28758-1,The LEGO Movie 2 Rex-treme Backpack,2021,777,0,https://cdn.rebrickabl
 LEG6434-1,Bumper Stationery Set,2018,739,0,https://cdn.rebrickable.com/media/sets/leg6434-1.jpg
 legobricks-1,Bricks Box,1958,365,2,https://cdn.rebrickable.com/media/sets/legobricks-1.jpg
 LEGOLAND-1,LEGOLAND The Netherlands 2025,2025,599,2,https://cdn.rebrickable.com/media/sets/legoland-1.jpg
-LEGO-Modulex-1,Unused Modulex parts sold by LEGO,1963,746,277,https://cdn.rebrickable.com/media/sets/lego-modulex-1.jpg
+LEGO-Modulex-1,Unused Modulex parts sold by LEGO,1963,746,280,https://cdn.rebrickable.com/media/sets/lego-modulex-1.jpg
 LEGOPRIZE-1,The LEGO Prize,1986,758,0,https://cdn.rebrickable.com/media/sets/legoprize-1.jpg
 LEGOSTORE100-1,"LEGO Store 100th LEGO Store Grand Opening Set, White Plains, NY, June 28-30, 2013",2013,408,5,https://cdn.rebrickable.com/media/sets/legostore100-1.jpg
 LEGOWORLD-1,Lego World Club Welcome Pack,1999,501,0,https://cdn.rebrickable.com/media/sets/legoworld-1.jpg
@@ -28014,6 +28032,7 @@ R31378-1,Racers Super Speedway Game,2001,741,126,https://cdn.rebrickable.com/med
 RABBIT-1,Easter Rabbit,2019,410,26,https://cdn.rebrickable.com/media/sets/rabbit-1.jpg
 RACERS-1,Cheerios Car,2009,118,4,https://cdn.rebrickable.com/media/sets/racers-1.jpg
 RACERS-2,Hamburger Helper Car,2009,118,4,https://cdn.rebrickable.com/media/sets/racers-2.jpg
+RAINBOW-1,Rainbow,2026,408,30,https://cdn.rebrickable.com/media/sets/rainbow-1.jpg
 RALEIGH-1,"LEGO Store Grand Opening Exclusive Set, Crabtree Valley Mall, Raleigh, NC",2009,408,121,https://cdn.rebrickable.com/media/sets/raleigh-1.jpg
 RAMBOLL-1,Ramboll Oil Platform,2008,598,216,https://cdn.rebrickable.com/media/sets/ramboll-1.jpg
 RANGOLI-1,Rangoli,2022,206,257,https://cdn.rebrickable.com/media/sets/rangoli-1.jpg
@@ -28161,7 +28180,6 @@ SWORD-1,Light Sword,2021,737,0,https://cdn.rebrickable.com/media/sets/sword-1.jp
 SX0250-1,Ollie Dragon with Santa Hat,2022,735,0,https://cdn.rebrickable.com/media/sets/sx0250-1.jpg
 T2-1,Therapy - Storage Box with 2 Compartments,1965,507,1,https://cdn.rebrickable.com/media/sets/t2-1.jpg
 TACO-1,Taco,2023,494,19,https://cdn.rebrickable.com/media/sets/taco-1.jpg
-TALLSHIP-1,Tall ship,2026,408,0,https://cdn.rebrickable.com/media/sets/tallship-1.jpg
 TEDDYBEAR-1,Teddy Bear,2020,232,67,https://cdn.rebrickable.com/media/sets/teddybear-1.jpg
 TerapiI-1,Therapy I,1965,507,1,https://cdn.rebrickable.com/media/sets/terapii-1.jpg
 TerapiI-2,Therapy I with Duplo,1969,516,1,https://cdn.rebrickable.com/media/sets/terapii-2.jpg
