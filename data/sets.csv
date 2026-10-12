@@ -421,7 +421,7 @@ set_num,name,year,theme_id,num_parts,img_url
 10192-1,Space Skulls,2008,397,957,https://cdn.rebrickable.com/media/sets/10192-1.jpg
 10193-1,Medieval Market Village,2009,193,1619,https://cdn.rebrickable.com/media/sets/10193-1.jpg
 10194-1,Emerald Night,2009,673,1091,https://cdn.rebrickable.com/media/sets/10194-1.jpg
-10195-1,Republic Dropship with AT-OT,2009,171,1758,https://cdn.rebrickable.com/media/sets/10195-1.jpg
+10195-1,Republic Dropship with AT-OT,2009,158,1758,https://cdn.rebrickable.com/media/sets/10195-1.jpg
 10196-1,Grand Carousel,2009,673,3261,https://cdn.rebrickable.com/media/sets/10196-1.jpg
 10197-1,Fire Brigade,2009,155,2236,https://cdn.rebrickable.com/media/sets/10197-1.jpg
 10198-1,Tantive IV,2009,171,1408,https://cdn.rebrickable.com/media/sets/10198-1.jpg
@@ -7567,6 +7567,7 @@ set_num,name,year,theme_id,num_parts,img_url
 40906-1,Restaurants of the World: Japan,2026,301,289,https://cdn.rebrickable.com/media/sets/40906-1.jpg
 40907-1,Restaurants of the World: Mexico,2026,301,326,https://cdn.rebrickable.com/media/sets/40907-1.jpg
 40908-1,Restaurants of the World: Greece,2026,301,254,https://cdn.rebrickable.com/media/sets/40908-1.jpg
+40909-1,Restaurants of the World: Italy,2026,301,0,https://cdn.rebrickable.com/media/sets/40909-1.jpg
 409-1,38 Slimbricks Assorted Sizes (The Building Toy),1965,756,38,https://cdn.rebrickable.com/media/sets/409-1.jpg
 40910-1,Beef Boss & Skye Figures,2026,610,288,https://cdn.rebrickable.com/media/sets/40910-1.jpg
 40911-1,Mini Pokémon Center,2026,776,233,https://cdn.rebrickable.com/media/sets/40911-1.jpg
@@ -12377,6 +12378,7 @@ set_num,name,year,theme_id,num_parts,img_url
 5011-1,9V Basic Motor,1992,443,1,https://cdn.rebrickable.com/media/sets/5011-1.jpg
 5011169-1,Halloween Window Stickers,2026,501,0,https://cdn.rebrickable.com/media/sets/5011169-1.jpg
 5011178-1,Botanicals Coloring Book,2026,760,0,https://cdn.rebrickable.com/media/sets/5011178-1.jpg
+5011197-1,Herschel Heritage XL Tote – Monogram Black,2027,777,0,https://cdn.rebrickable.com/media/sets/5011197-1.jpg
 5011215-1,City Activity Set,2026,501,0,https://cdn.rebrickable.com/media/sets/5011215-1.jpg
 5012-1,Soccer Player with Goal,2003,462,15,https://cdn.rebrickable.com/media/sets/5012-1.jpg
 501-3,JUMBO Pull Toy,1966,369,9,https://cdn.rebrickable.com/media/sets/501-3.jpg
@@ -12594,9 +12596,22 @@ set_num,name,year,theme_id,num_parts,img_url
 5124-1,Wheels and Bearings,1994,443,28,https://cdn.rebrickable.com/media/sets/5124-1.jpg
 5125-1,Spaceport Accessories,1995,443,36,https://cdn.rebrickable.com/media/sets/5125-1.jpg
 5126-1,Crane and Digger Accessories,1995,443,18,https://cdn.rebrickable.com/media/sets/5126-1.jpg
+51264-1,City No Limits Floor Puzzle,2026,741,0,https://cdn.rebrickable.com/media/sets/51264-1.jpg
 5127-1,Antennas and Control Sticks,1995,443,37,https://cdn.rebrickable.com/media/sets/5127-1.jpg
 5128-1,"Transparent Plates, Bricks, Toolholders",1996,443,80,https://cdn.rebrickable.com/media/sets/5128-1.jpg
+51281-1,Botanicals Quilt Collage Puzzle,2026,741,0,https://cdn.rebrickable.com/media/sets/51281-1.jpg
+51282-1,Botanicals Sunflower Collage Puzzle,2026,741,0,https://cdn.rebrickable.com/media/sets/51282-1.jpg
+51283-1,Creator Peacock Puzzle,2026,741,0,https://cdn.rebrickable.com/media/sets/51283-1.jpg
+51284-1,LEGO Ideas Globe Puzzle,2026,741,0,https://cdn.rebrickable.com/media/sets/51284-1.jpg
+51286-1,Botanicals Rose Puzzle,2026,741,0,https://cdn.rebrickable.com/media/sets/51286-1.jpg
+51287-1,Botanicals Pink Bouquet Puzzle,2026,741,0,https://cdn.rebrickable.com/media/sets/51287-1.jpg
+51288-1,Botanicals Purple Floral Puzzle,2026,741,0,https://cdn.rebrickable.com/media/sets/51288-1.jpg
+51289-1,Botanicals Wildflower Puzzle,2026,741,0,https://cdn.rebrickable.com/media/sets/51289-1.jpg
 5129-1,Space Accessories,1996,443,25,https://cdn.rebrickable.com/media/sets/5129-1.jpg
+51291-1,Icons El Dorado Pirate Ship Puzzle,2026,741,0,https://cdn.rebrickable.com/media/sets/51291-1.jpg
+51292-1,LEGO Ideas Vending Machine Puzzle,2026,741,0,https://cdn.rebrickable.com/media/sets/51292-1.jpg
+51293-1,LEGO Ideas Botanical Garden Puzzle,2026,741,0,https://cdn.rebrickable.com/media/sets/51293-1.jpg
+51294-1,LEGO Ideas Italian Riviera Puzzle,2026,741,0,https://cdn.rebrickable.com/media/sets/51294-1.jpg
 5130-1,"Windows, Seats, Steering Wheels",1996,443,14,https://cdn.rebrickable.com/media/sets/5130-1.jpg
 513-1,Building Set,1970,505,31,https://cdn.rebrickable.com/media/sets/513-1.jpg
 5131-1,"Hinges, Couplings, Turntables",1996,443,30,https://cdn.rebrickable.com/media/sets/5131-1.jpg
@@ -14831,9 +14846,9 @@ set_num,name,year,theme_id,num_parts,img_url
 60452-1,Donut Truck,2025,63,196,https://cdn.rebrickable.com/media/sets/60452-1.jpg
 60453-1,Lifeguard Beach Rescue Truck,2025,55,214,https://cdn.rebrickable.com/media/sets/60453-1.jpg
 60454-1,Holiday Adventure Camper Van,2025,63,385,https://cdn.rebrickable.com/media/sets/60454-1.jpg
-60455-1,Police Motorcycle chase,2025,61,65,https://cdn.rebrickable.com/media/sets/60455-1.jpg
+60455-1,Police Motorcycle Chase,2025,61,65,https://cdn.rebrickable.com/media/sets/60455-1.jpg
 60456-1,Police Boat Chase,2025,61,264,https://cdn.rebrickable.com/media/sets/60456-1.jpg
-60457-1,Custom Police Car garage,2025,61,489,https://cdn.rebrickable.com/media/sets/60457-1.jpg
+60457-1,Custom Police Car Garage,2025,61,489,https://cdn.rebrickable.com/media/sets/60457-1.jpg
 60458-1,Pizza vs. Fire Truck Race Car Pack,2025,52,70,https://cdn.rebrickable.com/media/sets/60458-1.jpg
 60459-1,Airplane vs. Hospital Bed Race Car Pack,2025,52,70,https://cdn.rebrickable.com/media/sets/60459-1.jpg
 60460-1,No Limits: Race Car Ramp Track,2025,52,436,https://cdn.rebrickable.com/media/sets/60460-1.jpg
@@ -15979,6 +15994,7 @@ set_num,name,year,theme_id,num_parts,img_url
 659-1,Police Patrol with Policemen,1975,421,49,https://cdn.rebrickable.com/media/sets/659-1.jpg
 6591-1,Nitro Dragsters,1989,67,144,https://cdn.rebrickable.com/media/sets/6591-1.jpg
 6591191-1,London Magnet 3 Pack,2026,734,0,https://cdn.rebrickable.com/media/sets/6591191-1.jpg
+6591194-1,Rugby Player Keychain Light,2025,503,0,https://cdn.rebrickable.com/media/sets/6591194-1.jpg
 6591198-1,Viking Woman Bag Tag,2026,731,0,https://cdn.rebrickable.com/media/sets/6591198-1.jpg
 659-2,1:87 VW Pickup,1964,368,1,https://cdn.rebrickable.com/media/sets/659-2.jpg
 6592-1,Vacation Hideaway,1990,67,117,https://cdn.rebrickable.com/media/sets/6592-1.jpg
@@ -16365,6 +16381,7 @@ set_num,name,year,theme_id,num_parts,img_url
 66448-1,City Super Pack 3 in 1,2013,58,0,https://cdn.rebrickable.com/media/sets/66448-1.jpg
 6644842-1,Poké Ball Smart Tag Case,2026,776,31,https://cdn.rebrickable.com/media/sets/6644842-1.jpg
 6644846-1,Turbo Shark Delivery,2026,408,41,https://cdn.rebrickable.com/media/sets/6644846-1.jpg
+6644847-1,Web Goal Challenge,2026,598,52,https://cdn.rebrickable.com/media/sets/6644847-1.jpg
 6644859-1,Reindeer,2026,227,0,https://cdn.rebrickable.com/media/sets/6644859-1.jpg
 6644864-1,Training Tree,2026,776,46,https://cdn.rebrickable.com/media/sets/6644864-1.jpg
 6644870-1,Dragon on Skateboard,2026,598,55,https://cdn.rebrickable.com/media/sets/6644870-1.jpg
@@ -16374,7 +16391,6 @@ set_num,name,year,theme_id,num_parts,img_url
 6644882-1,Human Human Fruit,2026,775,26,https://cdn.rebrickable.com/media/sets/6644882-1.jpg
 6644886-1,Ghost Street,2026,598,36,https://cdn.rebrickable.com/media/sets/6644886-1.jpg
 6644890-1,The Holiday Duo,2026,598,53,https://cdn.rebrickable.com/media/sets/6644890-1.jpg
-6644894-1,Reindeer,2026,598,36,https://cdn.rebrickable.com/media/sets/6644894-1.jpg
 6644896-1,Magenta Flower Candle,2026,598,21,https://cdn.rebrickable.com/media/sets/6644896-1.jpg
 66449-1,Star Wars Super Pack 3 in 1,2013,158,0,https://cdn.rebrickable.com/media/sets/66449-1.jpg
 66450-1,Legends of Chima Super Pack 3 in 1,2013,571,0,https://cdn.rebrickable.com/media/sets/66450-1.jpg
@@ -16575,6 +16591,7 @@ set_num,name,year,theme_id,num_parts,img_url
 6675304-1,Mini Lantern,2027,598,0,https://cdn.rebrickable.com/media/sets/6675304-1.jpg
 6675305-1,Moon with Lantern,2027,598,0,https://cdn.rebrickable.com/media/sets/6675305-1.jpg
 6675310-1,Taco Friend,2027,598,0,https://cdn.rebrickable.com/media/sets/6675310-1.jpg
+6675837-1,Witch's Flight,2026,598,153,https://cdn.rebrickable.com/media/sets/6675837-1.jpg
 6676-1,Mobile Command Unit,1986,67,100,https://cdn.rebrickable.com/media/sets/6676-1.jpg
 66763-1,Series 25 - 6 pack,2024,753,0,https://cdn.rebrickable.com/media/sets/66763-1.jpg
 66764-1,Series 26 Space 6 Pack,2024,762,0,https://cdn.rebrickable.com/media/sets/66764-1.jpg
@@ -16605,6 +16622,7 @@ set_num,name,year,theme_id,num_parts,img_url
 66795-1,Series 27 - 6 Pack,2025,771,0,https://cdn.rebrickable.com/media/sets/66795-1.jpg
 66796-1,F1 Collectible Race Car 6-Pack,2025,774,0,https://cdn.rebrickable.com/media/sets/66796-1.jpg
 66797-1,Spider-Man Across the Spider-Verse - 6 Pack,2025,784,0,https://cdn.rebrickable.com/media/sets/66797-1.jpg
+6679712-1,Licencja Na Zabawę,2026,501,0,https://cdn.rebrickable.com/media/sets/6679712-1.jpg
 6680-1,Ambulance,1981,67,63,https://cdn.rebrickable.com/media/sets/6680-1.jpg
 66801-1,Springtime Animal Play Pack,2025,22,0,https://cdn.rebrickable.com/media/sets/66801-1.jpg
 66802-1,Ultimate Formula 1 Collector's Pack,2025,601,1,https://cdn.rebrickable.com/media/sets/66802-1.jpg
@@ -16653,6 +16671,7 @@ set_num,name,year,theme_id,num_parts,img_url
 6697-1,Rescue-I Helicopter,1985,67,85,https://cdn.rebrickable.com/media/sets/6697-1.jpg
 6698-1,RV with Speedboat,1986,67,129,https://cdn.rebrickable.com/media/sets/6698-1.jpg
 6699-1,Cycle Fix-It Shop,1987,67,81,https://cdn.rebrickable.com/media/sets/6699-1.jpg
+67006-1,The Marvel Skyline,2027,696,0,https://cdn.rebrickable.com/media/sets/67006-1.jpg
 67008-1,Batman Returns Batmobile & Duck,2027,697,0,https://cdn.rebrickable.com/media/sets/67008-1.jpg
 67009-1,Arkham Batman Batmobile,2027,697,0,https://cdn.rebrickable.com/media/sets/67009-1.jpg
 670-1,Mobile Crane,1978,67,56,https://cdn.rebrickable.com/media/sets/670-1.jpg
@@ -19580,7 +19599,7 @@ set_num,name,year,theme_id,num_parts,img_url
 75454-1,Imperial Remnant AT-AT with INT-4,2026,158,1453,https://cdn.rebrickable.com/media/sets/75454-1.jpg
 75455-1,Boba Fett,2026,158,1544,https://cdn.rebrickable.com/media/sets/75455-1.jpg
 75456-1,Star Wars Advent Calendar 2026,2026,209,292,https://cdn.rebrickable.com/media/sets/75456-1.jpg
-75457-1,Executor Super Star Destroyer,2026,158,6130,https://cdn.rebrickable.com/media/sets/75457-1.jpg
+75457-1,Executor Super Star Destroyer,2026,171,6130,https://cdn.rebrickable.com/media/sets/75457-1.jpg
 75458-1,Imperial Remnant AT-RT Driver Helmet,2026,158,775,https://cdn.rebrickable.com/media/sets/75458-1.jpg
 75459-1,Imperial Lambda-Class Shuttle,2026,158,961,https://cdn.rebrickable.com/media/sets/75459-1.jpg
 75460-1,New Republic X-Wing Starfighter,2026,158,558,https://cdn.rebrickable.com/media/sets/75460-1.jpg
@@ -21129,7 +21148,7 @@ set_num,name,year,theme_id,num_parts,img_url
 814-1,"Baseplates, Green, Red and Yellow",1986,473,3,https://cdn.rebrickable.com/media/sets/814-1.jpg
 8141-1,Off Road Power,2007,112,201,https://cdn.rebrickable.com/media/sets/8141-1.jpg
 814-2,Gear Farm Set,1975,472,88,https://cdn.rebrickable.com/media/sets/814-2.jpg
-8142-1,Ferrari 248 F1 1:24 [Vodafone Version],2007,114,168,https://cdn.rebrickable.com/media/sets/8142-1.jpg
+8142-1,Ferrari 248 F1 1:24 [Vodafone Version],2007,114,167,https://cdn.rebrickable.com/media/sets/8142-1.jpg
 8142-2,Ferrari 248 F1 1:24 [Alice Version],2007,114,167,https://cdn.rebrickable.com/media/sets/8142-2.jpg
 8143-1,Ferrari 1:17 F430 Challenge,2007,114,690,https://cdn.rebrickable.com/media/sets/8143-1.jpg
 8144-1,Ferrari 248 F1 Team,2007,114,732,https://cdn.rebrickable.com/media/sets/8144-1.jpg
@@ -26160,6 +26179,7 @@ COWS6-1,Singapore: Display Base,2017,619,257,https://cdn.rebrickable.com/media/s
 COWT2-1,Chihkan Tower,2017,619,160,https://cdn.rebrickable.com/media/sets/cowt2-1.jpg
 COWT4-1,Taichung Station,2017,619,159,https://cdn.rebrickable.com/media/sets/cowt4-1.jpg
 CREATOR-1,Database Set for 4562-1 - Creator Box,2004,746,168,https://cdn.rebrickable.com/media/sets/creator-1.jpg
+CUPOSTER-1,City Undercover Poster,2017,736,1,https://cdn.rebrickable.com/media/sets/cuposter-1.jpg
 D100340-1,LogIT Sensor Adapter,2010,259,1,https://cdn.rebrickable.com/media/sets/d100340-1.jpg
 DACHSHUND-1,Dachshund,2018,598,104,https://cdn.rebrickable.com/media/sets/dachshund-1.jpg
 DAD-1,Dad Gold Keychain,2025,503,0,https://cdn.rebrickable.com/media/sets/dad-1.jpg
@@ -26169,7 +26189,7 @@ DANISHHEART-1,Danish Heart,2023,227,16,https://cdn.rebrickable.com/media/sets/da
 DATABASE-0,Unsorted Unused Parts Database Set,2023,746,17,https://cdn.rebrickable.com/media/sets/database-0.jpg
 DATABASE-1,Unused Parts Database Set - Pre-1965,1965,746,201,https://cdn.rebrickable.com/media/sets/database-1.jpg
 DATABASE-2,Unused Parts Database Set -1966 to 200﻿0,2000,746,218,https://cdn.rebrickable.com/media/sets/database-2.jpg
-DATABASE-2001,2001 - Unused Parts Database Set,2001,746,58,https://cdn.rebrickable.com/media/sets/database-2001.jpg
+DATABASE-2001,2001 - Unused Parts Database Set,2001,746,68,https://cdn.rebrickable.com/media/sets/database-2001.jpg
 DATABASE-2002,2002 - Unused Parts Database Set,2002,746,29,https://cdn.rebrickable.com/media/sets/database-2002.jpg
 DATABASE-2003,2003 - Unused Parts Database Set,2003,746,47,https://cdn.rebrickable.com/media/sets/database-2003.jpg
 DATABASE-2004,2004 - Unused Parts Database Set,2004,746,83,https://cdn.rebrickable.com/media/sets/database-2004.jpg
@@ -26181,7 +26201,7 @@ DATABASE-2009,2009 - Unused Parts Database Set,2009,746,33,https://cdn.rebrickab
 DATABASE-2010,2010 - Unused Parts Database Set,2010,746,45,https://cdn.rebrickable.com/media/sets/database-2010.jpg
 DATABASE-2011,2011 - Unused Parts Database Set,2011,746,35,https://cdn.rebrickable.com/media/sets/database-2011.jpg
 DATABASE-2012,2012 - Unused Parts Database Set,2012,746,67,https://cdn.rebrickable.com/media/sets/database-2012.jpg
-DATABASE-2013,2013 - Unused Parts Database Set,2013,746,37,https://cdn.rebrickable.com/media/sets/database-2013.jpg
+DATABASE-2013,2013 - Unused Parts Database Set,2013,746,38,https://cdn.rebrickable.com/media/sets/database-2013.jpg
 DATABASE-2014,2014 - Unused Parts Database Set,2014,746,30,https://cdn.rebrickable.com/media/sets/database-2014.jpg
 DATABASE-2015,2015 - Unused Parts Database Set,2015,746,56,https://cdn.rebrickable.com/media/sets/database-2015.jpg
 DATABASE-2016,2016 - Unused Parts Database Set,2016,746,40,https://cdn.rebrickable.com/media/sets/database-2016.jpg
@@ -26189,11 +26209,11 @@ DATABASE-2017,2017 - Unused Parts Database Set,2017,746,43,https://cdn.rebrickab
 DATABASE-2018,2018 - Unused Parts Database Set,2018,746,62,https://cdn.rebrickable.com/media/sets/database-2018.jpg
 DATABASE-2019,2019 - Unused Parts Database Set,2019,746,43,https://cdn.rebrickable.com/media/sets/database-2019.jpg
 DATABASE-2020,2020 - Unused Parts Database Set,2020,746,28,https://cdn.rebrickable.com/media/sets/database-2020.jpg
-DATABASE-2021,2021 - Unused Parts Database Set,2021,746,39,https://cdn.rebrickable.com/media/sets/database-2021.jpg
+DATABASE-2021,2021 - Unused Parts Database Set,2021,746,38,https://cdn.rebrickable.com/media/sets/database-2021.jpg
 DATABASE-2022,2022 - Unused Parts Database Set,2022,746,73,https://cdn.rebrickable.com/media/sets/database-2022.jpg
-DATABASE-2023,2023 - Unused Parts Database Set,2023,746,54,https://cdn.rebrickable.com/media/sets/database-2023.jpg
+DATABASE-2023,2023 - Unused Parts Database Set,2023,746,57,https://cdn.rebrickable.com/media/sets/database-2023.jpg
 DATABASE-2024,2024 - Unused Parts Database Set,2024,746,38,https://cdn.rebrickable.com/media/sets/database-2024.jpg
-DATABASE-2025,2025 - Unused Parts Database Set,2025,746,28,https://cdn.rebrickable.com/media/sets/database-2025.jpg
+DATABASE-2025,2025 - Unused Parts Database Set,2025,746,29,https://cdn.rebrickable.com/media/sets/database-2025.jpg
 DATABASE-2026,2026 - Unused Parts Database Set,2026,746,17,https://cdn.rebrickable.com/media/sets/database-2026.jpg
 DATABASE-HO-1,Database Set for 1:87 Mercedes Sport,1963,746,11,https://cdn.rebrickable.com/media/sets/database-ho-1.jpg
 DATABASE-HO-2,Database Set for 1:87 VW Vans,1958,746,26,https://cdn.rebrickable.com/media/sets/database-ho-2.jpg
@@ -26583,6 +26603,7 @@ GU4273-1,adidas x Classic LEGO Red Halfzip Windbreaker,2023,799,0,https://cdn.re
 GU8883-1,adidas x LEGO Sports Backpack,2021,777,0,https://cdn.rebrickable.com/media/sets/gu8883-1.jpg
 GUANGZHOU-1,The LEGO Store (Guangzhou),2021,408,10,https://cdn.rebrickable.com/media/sets/guangzhou-1.jpg
 GUANGZHOU-2,The LEGO Store (Guangzhou) - Brick,2021,408,1,https://cdn.rebrickable.com/media/sets/guangzhou-2.jpg
+GUANGZHOU-3,The LEGO Store (Guangzhou) - Tile,2021,408,1,https://cdn.rebrickable.com/media/sets/guangzhou-3.jpg
 GUARDIANDRAGON-1,Guardian Dragon & Fire Mech,2025,435,183,https://cdn.rebrickable.com/media/sets/guardiandragon-1.jpg
 GV6849-1,adidas Gamemode FG x LEGO (White Carbon Blue) - Men's Shoes,2022,799,0,https://cdn.rebrickable.com/media/sets/gv6849-1.jpg
 GV6850-1,adidas Gamemode FG x LEGO (Carbon Red Blue) - Men's Shoes,2022,799,0,https://cdn.rebrickable.com/media/sets/gv6850-1.jpg
@@ -26745,6 +26766,7 @@ HAINING-1,LEGO China 300th Certified Store Opening Commemorative Minifigure Set,
 HANGER-1,Clothes Hanger,2014,733,0,https://cdn.rebrickable.com/media/sets/hanger-1.jpg
 HANGER-2,Clothes Hanger With Clips,2014,733,0,https://cdn.rebrickable.com/media/sets/hanger-2.jpg
 HANGZHOU-1,The Lego Store (Hangzhou) 1 Year Anniversary,2021,408,1,https://cdn.rebrickable.com/media/sets/hangzhou-1.jpg
+HANGZHOU-2,"LEGO Store Grand Opening Exclusive Set, Hangzhou, China",2020,408,8,https://cdn.rebrickable.com/media/sets/hangzhou-2.jpg
 HANOVER-1,"LEGO Store Grand Opening Exclusive Set, Arundel Mills, Hanover, MD",2009,408,69,https://cdn.rebrickable.com/media/sets/hanover-1.jpg
 HARLEY-1,Harley-Davidson Mini Motorcycle,2019,673,71,https://cdn.rebrickable.com/media/sets/harley-1.jpg
 HAT-1,Yellow Bucket Hat,2024,799,0,https://cdn.rebrickable.com/media/sets/hat-1.jpg
@@ -28021,15 +28043,25 @@ PLAYINGCARDS-1,LEGOLAND Playing Cards,2020,741,0,https://cdn.rebrickable.com/med
 PLEASATON-1,LEGO Store Grand Opening Exclusive Set Stoneridge Mall Pleasanton CA,2011,408,15,https://cdn.rebrickable.com/media/sets/pleasaton-1.jpg
 PLUSH-1,LEGOLAND Billund Teddy Bear (All Colors),2020,735,0,https://cdn.rebrickable.com/media/sets/plush-1.jpg
 PLUSH-10,T-Rex Costume Fan Plush,2026,735,0,https://cdn.rebrickable.com/media/sets/plush-10.jpg
+PLUSH-11,Frog Fan Suit Small Plush Minifigure,2026,735,0,https://cdn.rebrickable.com/media/sets/plush-11.jpg
+PLUSH-12,Race Car Driver Small Plush Minifigure,2026,735,0,https://cdn.rebrickable.com/media/sets/plush-12.jpg
+PLUSH-13,Doctor Small Plush Minifigure,2026,735,0,https://cdn.rebrickable.com/media/sets/plush-13.jpg
+PLUSH-14,Construction Worker Small Plush Minifigure,2026,735,0,https://cdn.rebrickable.com/media/sets/plush-14.jpg
 PLUSH-15,Firefighter Plush,2009,735,0,https://cdn.rebrickable.com/media/sets/plush-15.jpg
 PLUSH-16,Policeman Plush,2009,735,0,https://cdn.rebrickable.com/media/sets/plush-16.jpg
 PLUSH-17,"Minifigure with Red Legs, Blue Torso With 'LEGO' Logo, White Arms and White Hat Plush",2009,735,0,https://cdn.rebrickable.com/media/sets/plush-17.jpg
 PLUSH-18,Construction Worker Plush,2009,735,0,https://cdn.rebrickable.com/media/sets/plush-18.jpg
 PLUSH-19,LEGOLAND Dog Widget Plush,2020,735,0,https://cdn.rebrickable.com/media/sets/plush-19.jpg
 PLUSH-2,Olivia Plush,2020,735,0,https://cdn.rebrickable.com/media/sets/plush-2.jpg
+PLUSH-20,Kai Small Plush Minifigure,2026,735,0,https://cdn.rebrickable.com/media/sets/plush-20.jpg
+PLUSH-21,Lloyd Small Plush Minifigure,2026,735,0,https://cdn.rebrickable.com/media/sets/plush-21.jpg
+PLUSH-3,Astronaut Small Plush Minifigure - Blue,2026,735,0,https://cdn.rebrickable.com/media/sets/plush-3.jpg
 PLUSH-4,Duplo Sea Turtle Plush,2024,735,0,https://cdn.rebrickable.com/media/sets/plush-4.jpg
 PLUSH-5,Ollie Plush,2020,735,0,https://cdn.rebrickable.com/media/sets/plush-5.jpg
 PLUSH-6,Construction Worker Plush,2026,735,0,https://cdn.rebrickable.com/media/sets/plush-6.jpg
+PLUSH-7,Jay Small Plush Minifigure,2026,735,0,https://cdn.rebrickable.com/media/sets/plush-7.jpg
+PLUSH-8,Cole Small Plush Minifigure,2026,735,0,https://cdn.rebrickable.com/media/sets/plush-8.jpg
+PLUSH-9,Raccoon Fan Suit Small Plush Minifigure,2026,735,0,https://cdn.rebrickable.com/media/sets/plush-9.jpg
 POKEMONSTICKER-1,Pokémon Smart Play Stickers,2026,501,0,https://cdn.rebrickable.com/media/sets/pokemonsticker-1.jpg
 PONCHO-1,LEGOLAND Child Rain Poncho,2020,799,0,https://cdn.rebrickable.com/media/sets/poncho-1.jpg
 PONCHO-2,LEGOLAND Adult Rain Poncho,2020,799,0,https://cdn.rebrickable.com/media/sets/poncho-2.jpg
