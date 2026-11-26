@@ -8646,7 +8646,7 @@ set_num,name,year,theme_id,num_parts,img_url
 4212852-1,Easter Egg [Blue],2004,229,178,https://cdn.rebrickable.com/media/sets/4212852-1.jpg
 42129-1,4x4 Mercedes-Benz Zetros Trial Truck,2021,1,2131,https://cdn.rebrickable.com/media/sets/42129-1.jpg
 4212977-1,Letter Set,2003,500,23,https://cdn.rebrickable.com/media/sets/4212977-1.jpg
-42130-1,BMW Motorrad M 1000 RR,2022,1,1922,https://cdn.rebrickable.com/media/sets/42130-1.jpg
+42130-1,BMW Motorrad M 1000 RR,2022,1,1920,https://cdn.rebrickable.com/media/sets/42130-1.jpg
 4213-1,Super Set 200,1998,470,519,https://cdn.rebrickable.com/media/sets/4213-1.jpg
 42131-1,Cat D11 Bulldozer,2021,1,3854,https://cdn.rebrickable.com/media/sets/42131-1.jpg
 4213160-1,Xtreme Skateboard Key Chain,2003,503,0,https://cdn.rebrickable.com/media/sets/4213160-1.jpg
@@ -12461,6 +12461,7 @@ set_num,name,year,theme_id,num_parts,img_url
 5011101-1,Gingerbread Man Small Plush Minifigure,2026,735,0,https://cdn.rebrickable.com/media/sets/5011101-1.jpg
 5011164-1,Fig Beetle Garden,2026,769,0,https://cdn.rebrickable.com/media/sets/5011164-1.jpg
 5011169-1,Halloween Window Stickers,2026,501,0,https://cdn.rebrickable.com/media/sets/5011169-1.jpg
+5011174-1,Christmas Craft Set,2026,501,0,https://cdn.rebrickable.com/media/sets/5011174-1.jpg
 5011178-1,Botanicals Coloring Book,2026,760,0,https://cdn.rebrickable.com/media/sets/5011178-1.jpg
 5011185-1,Herschel Heritage Tote - Monogram Black,2026,777,0,https://cdn.rebrickable.com/media/sets/5011185-1.jpg
 5011186-1,Herschel Retreat Small Backpack - Botanical Floral Black,2026,777,0,https://cdn.rebrickable.com/media/sets/5011186-1.jpg
@@ -16167,7 +16168,7 @@ set_num,name,year,theme_id,num_parts,img_url
 6602968-1,Turkey Time Build,2025,231,41,https://cdn.rebrickable.com/media/sets/6602968-1.jpg
 6603-1,Shovel Truck,1985,67,27,https://cdn.rebrickable.com/media/sets/6603-1.jpg
 6603212-1,German Castle,2025,598,62,https://cdn.rebrickable.com/media/sets/6603212-1.jpg
-6603984-1,Canada Tennis,2025,408,0,https://cdn.rebrickable.com/media/sets/6603984-1.jpg
+6603984-1,Canada Tennis,2025,408,45,https://cdn.rebrickable.com/media/sets/6603984-1.jpg
 6604-1,Formula-I Racer,1985,67,31,https://cdn.rebrickable.com/media/sets/6604-1.jpg
 6605-1,Road Racer,1984,67,20,https://cdn.rebrickable.com/media/sets/6605-1.jpg
 6605170-1,Jurong Point 10th Anniversary,2025,408,8,https://cdn.rebrickable.com/media/sets/6605170-1.jpg
@@ -16736,6 +16737,10 @@ set_num,name,year,theme_id,num_parts,img_url
 66764-1,Series 26 Space 6 Pack,2024,762,0,https://cdn.rebrickable.com/media/sets/66764-1.jpg
 66765-1,Dungeons & Dragons - 6 Pack,2024,767,0,https://cdn.rebrickable.com/media/sets/66765-1.jpg
 6676794-1,Honeybee Bloom,2027,598,0,https://cdn.rebrickable.com/media/sets/6676794-1.jpg
+6677056-1,Gryffindor,2026,598,38,https://cdn.rebrickable.com/media/sets/6677056-1.jpg
+6677056-2,Hufflepuff,2026,598,29,https://cdn.rebrickable.com/media/sets/6677056-2.jpg
+6677056-3,Ravenclaw,2026,598,24,https://cdn.rebrickable.com/media/sets/6677056-3.jpg
+6677056-4,Slytherin,2026,598,23,https://cdn.rebrickable.com/media/sets/6677056-4.jpg
 6677-1,Motocross Racing,1986,67,76,https://cdn.rebrickable.com/media/sets/6677-1.jpg
 66772-1,Big Wheel Gift Set,2023,57,0,https://cdn.rebrickable.com/media/sets/66772-1.jpg
 66773-1,Play Day Gift Set,2023,494,0,https://cdn.rebrickable.com/media/sets/66773-1.jpg
@@ -16824,7 +16829,8 @@ set_num,name,year,theme_id,num_parts,img_url
 6701-1,Minifig Pack,1983,143,36,https://cdn.rebrickable.com/media/sets/6701-1.jpg
 67012-1,The Joker Wall Art Comic Cover,2027,697,0,https://cdn.rebrickable.com/media/sets/67012-1.jpg
 6702-1,Minifig Pack,1986,143,43,https://cdn.rebrickable.com/media/sets/6702-1.jpg
-6702754-1,Santa sticker (Czech Stores),2026,738,0,https://cdn.rebrickable.com/media/sets/6702754-1.jpg
+67023-1,Marvel Rivals: Jeff the Land Shark,2027,696,0,https://cdn.rebrickable.com/media/sets/67023-1.jpg
+6702754-1,Santa Sticker (Czech Stores),2026,738,0,https://cdn.rebrickable.com/media/sets/6702754-1.jpg
 670-3,1:87 Jaguar E-Type with Garage,1964,368,3,https://cdn.rebrickable.com/media/sets/670-3.jpg
 6703-1,Space Mini-Figures,1988,143,42,https://cdn.rebrickable.com/media/sets/6703-1.jpg
 6704-1,Minifig Pack,1991,143,44,https://cdn.rebrickable.com/media/sets/6704-1.jpg
@@ -26391,7 +26397,7 @@ DATABASE-2018,2018 - Unused Parts Database Set,2018,746,63,https://cdn.rebrickab
 DATABASE-2019,2019 - Unused Parts Database Set,2019,746,45,https://cdn.rebrickable.com/media/sets/database-2019.jpg
 DATABASE-2020,2020 - Unused Parts Database Set,2020,746,28,https://cdn.rebrickable.com/media/sets/database-2020.jpg
 DATABASE-2021,2021 - Unused Parts Database Set,2021,746,38,https://cdn.rebrickable.com/media/sets/database-2021.jpg
-DATABASE-2022,2022 - Unused Parts Database Set,2022,746,73,https://cdn.rebrickable.com/media/sets/database-2022.jpg
+DATABASE-2022,2022 - Unused Parts Database Set,2022,746,75,https://cdn.rebrickable.com/media/sets/database-2022.jpg
 DATABASE-2023,2023 - Unused Parts Database Set,2023,746,55,https://cdn.rebrickable.com/media/sets/database-2023.jpg
 DATABASE-2024,2024 - Unused Parts Database Set,2024,746,38,https://cdn.rebrickable.com/media/sets/database-2024.jpg
 DATABASE-2025,2025 - Unused Parts Database Set,2025,746,27,https://cdn.rebrickable.com/media/sets/database-2025.jpg
@@ -27963,7 +27969,7 @@ LWP05-1,LEGO World Denmark Puzzle Promo 2012,2012,598,7,https://cdn.rebrickable.
 LWP06-1,LEGO World Denmark Puzzle Promo 2013,2013,598,7,https://cdn.rebrickable.com/media/sets/lwp06-1.jpg
 LWP12-1,LEGO World Denmark Puzzle Promo 2018,2018,598,7,https://cdn.rebrickable.com/media/sets/lwp12-1.jpg
 LWP14-1,LEGO World Denmark Puzzle Promo 2020,2020,598,7,https://cdn.rebrickable.com/media/sets/lwp14-1.jpg
-LWP-15,LEGO World Denmark Puzzle Promo 2022,2022,598,9,https://cdn.rebrickable.com/media/sets/lwp-15.jpg
+LWP-15,LEGO World Denmark Puzzle Promo 2022,2022,598,7,https://cdn.rebrickable.com/media/sets/lwp-15.jpg
 LWR6003-1,City: The Perfect Trick,2022,759,0,https://cdn.rebrickable.com/media/sets/lwr6003-1.jpg
 LWR6004-1,City: In the Wild,2022,759,0,https://cdn.rebrickable.com/media/sets/lwr6004-1.jpg
 LYNNWOOD-1,"LEGO Store Grand Opening Exclusive Set, Alderwood Mall, Lynnwood, WA",2012,408,15,https://cdn.rebrickable.com/media/sets/lynnwood-1.jpg
